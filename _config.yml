@@ -62,7 +62,7 @@ author:
   bio    : "Backend SW developer in Republic of Korea."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kihoon-han-03a801117/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
