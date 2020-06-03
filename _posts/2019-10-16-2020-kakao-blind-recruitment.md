@@ -16,7 +16,7 @@ tags:
   - "PS"
 ---
 
-매년 그랬듯이, 이 채용 공지 역시 8월에 올라왔어요. 당장 내년 2월 졸업 예정자는 아니지만 어차피 4학년 2학기만 남아있는 상태고 곧 군필자가 되는 상태라 지원을 했어요.
+매년 그랬듯이, 이 채용 공지 역시 8월에 올라왔어요. 당장 내년 2월 졸업 예정자는 아니지만 어차피 4학년 2학기만 남아있는 상태고 곧 군필자가 되는 상태라 지원을 했어요.
 
 일단 결론부터 말하면 떨어졌어요.
 
@@ -621,20 +621,20 @@ vector<int> solution(vector<string> words, vector<string> queries) {
 
 ```json
 {
-  'score': {
-    'accepted_recommend': 2000,
-    'day': 47,
-    'expected_recommend_rate': 48.88999,
-    'finished_at': '2019-09-21T07:32:12.406+00:00',
-    'finished_user_count': 100,
-    'original_token': '8dc5c7c27ca85028dc42a206b0d944ca',
-    'problem': 1,
-    'rejected_recommend': 2027,
-    'score': 19.062,
-    'status': 'finish',
-    'token': 'f388ad3b-cf4d-42d8-bf90-d4e759147131',
-    'total_recommend': 4027,
-    'username': '8dc5c7'
+  "score": {
+    "accepted_recommend": 2000,
+    "day": 47,
+    "expected_recommend_rate": 48.88999,
+    "finished_at": "2019-09-21T07:32:12.406+00:00",
+    "finished_user_count": 100,
+    "original_token": "8dc5c7c27ca85028dc42a206b0d944ca",
+    "problem": 1,
+    "rejected_recommend": 2027,
+    "score": 19.062,
+    "status": "finish",
+    "token": "f388ad3b-cf4d-42d8-bf90-d4e759147131",
+    "total_recommend": 4027,
+    "username": "8dc5c7"
   }
 }
 ```
@@ -643,20 +643,20 @@ vector<int> solution(vector<string> words, vector<string> queries) {
 
 ```json
 {
-  'score': {
-    'accepted_recommend': 98120,
-    'day': 52,
-    'expected_recommend_rate': 56.31548,
-    'finished_at': '2019-09-21T08:51:26.968+00:00',
-    'finished_user_count': 4906,
-    'original_token': '8dc5c7c27ca85028dc42a206b0d944ca',
-    'problem': 2,
-    'rejected_recommend': 75874,
-    'score': 52.29812,
-    'status': 'finish',
-    'token': '2b0b399b-a773-450d-b3ba-43e65a939c7b',
-    'total_recommend': 173994,
-    'username': '8dc5c7'
+  "score": {
+    "accepted_recommend": 98120,
+    "day": 52,
+    "expected_recommend_rate": 56.31548,
+    "finished_at": "2019-09-21T08:51:26.968+00:00",
+    "finished_user_count": 4906,
+    "original_token": "8dc5c7c27ca85028dc42a206b0d944ca",
+    "problem": 2,
+    "rejected_recommend": 75874,
+    "score": 52.29812,
+    "status": "finish",
+    "token": "2b0b399b-a773-450d-b3ba-43e65a939c7b",
+    "total_recommend": 173994,
+    "username": "8dc5c7"
   }
 }
 ```
