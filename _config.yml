@@ -95,6 +95,8 @@ analytics:
     tracking_id: "UA-142546009-1"
     anonymize_ip: false
 
+naver_site_verification: "328e54ec53b8c602d517df1109609218c802247a"
+
 defaults:
   # _posts
   - scope:
