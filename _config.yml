@@ -89,6 +89,12 @@ comments:
   disqus:
     shortname: "blog-khhan1993-com"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-142546009-1"
+    anonymize_ip: false
+
 defaults:
   # _posts
   - scope:
