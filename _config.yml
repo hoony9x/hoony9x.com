@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 'hoony9x'
+title: "hoony9x"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is personal blog of hoony9x, backend SW developer in Republic of Korea.
-baseurl: ''
+baseurl: ""
 twitter_username: khhan1993
 github_username: hoony9x
 minimal_mistakes_skin: default
@@ -83,6 +83,11 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/hoony9x"
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "blog-khhan1993-com"
 
 defaults:
   # _posts
