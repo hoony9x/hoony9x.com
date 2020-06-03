@@ -30,17 +30,11 @@ tags:
 
 그래서 기존에 쓰던 카카오뱅크 체크카드를 해지하고 새로 신청을 했다. 그 결과...
 
-<div class="justified-gallery">
-
 ![한정판 - 1](/assets/images/2018-09-07-kakaobank-card-limited-edition-review/KakaoTalk_Photo_2018-09-07-18-31-18.jpeg)
 ![한정판 - 2](/assets/images/2018-09-07-kakaobank-card-limited-edition-review/KakaoTalk_Photo_2018-09-07-18-31-20.jpeg)
-</div>
-<div class="justified-gallery">
 
 ![한정판 - 3](/assets/images/2018-09-07-kakaobank-card-limited-edition-review/KakaoTalk_Photo_2018-09-07-18-31-21.jpeg)
 ![한정판 - 4](/assets/images/2018-09-07-kakaobank-card-limited-edition-review/KakaoTalk_Photo_2018-09-07-18-31-23.jpeg)
-
-</div>
 
 나는 흰색을 골랐다. 흰색이 뭔가 깔끔해 보였다.
 

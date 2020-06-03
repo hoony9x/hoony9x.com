@@ -48,19 +48,11 @@ Universal Studio Hollywood 에 왔다 하면 다들 여기서 사진을 한 번�
 
 또 하나는 해가 진 후 호그와트 성에서 진행되는 조명 쇼이다. (정확한 시간은 기억이 나지 않는다.)
 
-<div class="justified-gallery">
-
 ![Hogwarts Castle - 1](/assets/images/2017-07-24-united-states-2017-5th-week/IMG_0892.jpg)
 ![Hogwarts Castle - 2](/assets/images/2017-07-24-united-states-2017-5th-week/IMG_0894.jpg)
 
-</div>
-<div class="justified-gallery">
-
 ![Hogwarts Castle - 3](/assets/images/2017-07-24-united-states-2017-5th-week/IMG_0895.jpg)
 ![Hogwarts Castle - 4](/assets/images/2017-07-24-united-states-2017-5th-week/IMG_0898.jpg)
-
-</div>
-<br/>
 
 건물 전체가 조명으로 꾸며지는데 꽤 멋있다.
 
@@ -70,12 +62,8 @@ Universal Studio Hollywood 에 왔다 하면 다들 여기서 사진을 한 번�
 
 그리고 저 지구본 조명 색깔은 알록달록하게 계속 변한다.
 
-<div class="justified-gallery">
-
 ![Universal Studio Hollywood 야간 - 1](/assets/images/2017-07-24-united-states-2017-5th-week/IMG_0923.jpg)
 ![Universal Studio Hollywood 야간 - 2](/assets/images/2017-07-24-united-states-2017-5th-week/IMG_0932.jpg)
-
-</div>
 
 기념품은 많이는 사지 않았지만 해리포터 관련 기념품이 절반을 차지했다.
 

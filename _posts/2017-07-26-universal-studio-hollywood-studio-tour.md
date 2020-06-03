@@ -38,24 +38,14 @@ Studio Tour 입구이다. 저기에 Tour Wait Time 이라고 적힌 부분에 55
 
 ![Tour Bus](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0757.jpg)
 
-<div class="justified-gallery">
-
 ![포스터 - 1](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0764.jpg)
 ![포스터 - 2](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0765.jpg)
 
-</div>
-<br/>
-
 차량을 타고 스튜디오에 진입하는 도로에는 이렇게 각 영화별 포스터와 제작년도가 붙은 패널이 세워져 있다.
-
-<div class="justified-gallery">
 
 ![내부 건물 - 1](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0767.jpg)
 ![내부 건물 - 2](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0770.jpg)
 ![내부 건물 - 3](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0771.jpg)
-
-</div>
-<br/>
 
 중간에 각종 건물들도 보이고...
 
@@ -71,35 +61,19 @@ Studio Tour 입구이다. 저기에 Tour Wait Time 이라고 적힌 부분에 55
 
 지나가다 보면 차량을 전시해 둔 길이 있다. 각 영화에서 사용된 차를 가져다 놓은 것이다.
 
-<div class="justified-gallery">
-
 ![소품 차량 - 1](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0796.jpg)
 ![소품 차량 - 2](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0804.jpg)
-
-</div>
-<div class="justified-gallery">
 
 ![소품 차량 - 3](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0807.jpg)
 ![소품 차량 - 4](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0808.jpg)
 
-</div>
-<br/>
-
 각 영화마다 세트장이 꽤 많은데, 그 중 특히 인상적이던 곳이 있었다. 아래 사진이 그 곳이다.
-
-<div class="justified-gallery">
 
 ![우주전쟁 세트장 - 1](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0856.jpg)
 ![우주전쟁 세트장 - 2](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0855.jpg)
 
-</div>
-<div class="justified-gallery">
-
 ![우주전쟁 세트장 - 3](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0849.jpg)
 ![우주전쟁 세트장 - 4](/assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0851.jpg)
-
-</div>
-<br/>
 
 [우주전쟁(2005년 영화)](https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%A3%BC_%EC%A0%84%EC%9F%81_(2005%EB%85%84_%EC%98%81%ED%99%94))을 본 사람이라면 익숙한 장면일 것이다. 이 세트장에서 해당 Scene을 촬영했다는 것 같다.
 

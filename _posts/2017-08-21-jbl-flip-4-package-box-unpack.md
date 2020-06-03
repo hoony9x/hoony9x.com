@@ -24,13 +24,8 @@ tags:
 
 항상 택배를 받을 때는 가슴이 설렌다.
 
-<div class="justified-gallery">
-
 ![Package Box - 1](/assets/images/2017-08-21-jbl-flip-4-package-box-unpack/IMG_0626.jpg)
 ![Package Box - 2](/assets/images/2017-08-21-jbl-flip-4-package-box-unpack/IMG_0627.jpg)
-
-</div>
-<br/>
 
 제품 상자는 이렇게 생겼다. 미국에서 산 제품인데 상자 뒷면에 적힌 사항들을 보면 한국어로 적힌 부분도 있다.
 
@@ -58,13 +53,8 @@ tags:
 
 오른쪽에 고무패킹으로 막혀 있는 부분에는 AUX 포트와 충전용 포트가 있다.
 
-<div class="justified-gallery">
-
 ![Unboxing - 7](/assets/images/2017-08-21-jbl-flip-4-package-box-unpack/IMG_0633.jpg)
 ![Unboxing - 8](/assets/images/2017-08-21-jbl-flip-4-package-box-unpack/IMG_0634.jpg)
-
-</div>
-<br/>
 
 왼쪽과 오른쪽 부분에는 Bass 용 스피커 (이 표현이 맞는지는 모르겠다) 가 있으며, Bass 사운드가 울릴 때마다 저 판때기도 같이 떨린다. (떨리는 것이 눈으로 정말 잘 보인다!)
 

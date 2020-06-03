@@ -56,19 +56,11 @@ Google과 Facebook 본사의 견학 및 컨퍼런스 참석 일정이 있어서 
 
 태어나서 처음 느껴보는 40도의 열기였다.
 
-<div class="justified-gallery">
-
 ![IN-N-OUT - 1](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0571.jpg)
 ![IN-N-OUT - 2](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0046.jpg)
 
-</div>
-<div class="justified-gallery">
-
 ![IN-N-OUT - 3](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0045.jpg)
 ![IN-N-OUT - 4](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0561.jpg)
-
-</div>
-<br/>
 
 잠시 IN-N-OUT Burger로 허기를 달래는 시간을 가지고 다시 San Francisco로 달려갔다.
 
@@ -81,48 +73,27 @@ UC Irvine 에서 San Francisco 숙소까지 대략 9시간 정도 걸렸던 것�
 이들 회사 방문 후 시간이 남아서 잠시 [Stanford University](https://www.stanford.edu/) 캠퍼스를 구경하는 시간을 가졌다.
 이 대학교의 캠퍼스는 세계 2위, 미국 내 1위의 면적을 자랑한다. (연속된 부지 한정). 그래서 당연히 캠퍼스를 다 둘러보는 것은 불가능했고, 일부만 둘러보는 시간을 가졌다. (사실 어느 건물이 뭘 하는 곳인지도 잘 모르겠다.)
 
-<div class="justified-gallery">
-
 ![Stanford University - 1](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0271.jpg)
 ![Stanford University - 2](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0272.jpg)
 ![Stanford University - 3](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0273.jpg)
-
-</div>
-<div class="justified-gallery">
 
 ![Stanford University - 4](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0277.jpg)
 ![Stanford University - 5](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0292.jpg)
 ![Stanford University - 6](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0301.jpg)
 
-</div>
-<br/>
-
 딱 봐도 엄청나게 광활한 캠퍼스임이 보인다.
-
-<div class="justified-gallery">
 
 ![Stanford University Design Lab - 1](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0316.jpg)
 ![Stanford University Design Lab - 2](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0319.jpg)
 ![Stanford University Design Lab - 3](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0321.jpg)
 
-</div>
-<div class="justified-gallery">
-
 ![Stanford University Design Lab - 4](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0322.jpg)
 ![Stanford University Design Lab - 5](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0323.jpg)
 
-</div>
-<br/>
-
 중간에 Design Lab 이란 곳을 잠시 구경해봤다.
-
-<div class="justified-gallery">
 
 ![Stanford University Store - 1](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0325.jpg)
 ![Stanford University Store - 2](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0326.jpg)
-
-</div>
-<br/>
 
 Stanford University 내에 위치한 Store 이다. 옷부터 시작해서 문구류, 책, 그리고 전자기기까지 꽤 많은 것을 팔고 있다.
 
@@ -132,13 +103,8 @@ Stanford University 내에 위치한 Store 이다. 옷부터 시작해서 문구
 
 컨퍼런스 참석 일정 종료 후에 저녁을 먹고 밤에 2시간 정도 Pier39 라는 곳에서 자유시간을 가질 수 있었다.
 
-<div class="justified-gallery">
-
 ![SF 시내 - 1](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0417.jpg)
 ![SF 시내 - 2](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0418.jpg)
-
-</div>
-<br/>
 
 저녁을 먹은 직후에 바로 앞에서 찍어본 San Francisco 의 도로 풍경이다.
 
@@ -146,30 +112,17 @@ Stanford University 내에 위치한 Store 이다. 옷부터 시작해서 문구
 
 버스를 타고 Pier 39 로 이동하던 중간에 찍은 사진이다. 이날은 날씨가 많이 흐렸으며 생각외로 많이 추웠다.
 
-<div class="justified-gallery">
-
 ![Pier 39 - 1](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0425.jpg)
 ![Pier 39 - 2](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0426.jpg)
-
-</div>
-<div class="justified-gallery">
 
 ![Pier 39 - 3](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0428.jpg)
 ![Pier 39 - 4](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0430.jpg)
 
-</div>
-<br/>
-
 이곳에 도착한 후 각자 여기저기 구경하는 시간을 가졌다.
-
-<div class="justified-gallery">
 
 ![Pier 39 - 5](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0433.jpg)
 ![Pier 39 - 6](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0434.jpg)
 ![Pier 39 - 7](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0435.jpg)
-
-</div>
-<br/>
 
 물개인지 바다사자인지는 잘 모르겠지만 밤에는 저렇게 다 물 위로 올라와서 잠을 자는 모양이다.
 
@@ -183,8 +136,6 @@ Stanford University 내에 위치한 Store 이다. 옷부터 시작해서 문구
 
 날이 많이 어둡고 흐려서 깨끗한 사진을 찍는 데는 실패했다.
 
-<div class="justified-gallery">
-
 ![Pier 39 - 8](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0438.jpg)
 ![Pier 39 - 9](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0450.jpg)
 ![Pier 39 - 10](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0451.jpg)
@@ -192,9 +143,6 @@ Stanford University 내에 위치한 Store 이다. 옷부터 시작해서 문구
 ![Pier 39 - 12](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0455.jpg)
 ![Pier 39 - 13](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0456.jpg)
 ![Pier 39 - 14](/assets/images/2017-07-31-united-states-2017-6th-week/IMG_0457.jpg)
-
-</div>
-<br/>
 
 다시 호텔로 돌아가는 길에 찍어본 길 사진.
 

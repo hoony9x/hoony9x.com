@@ -24,25 +24,15 @@ tags:
 
 우선은 캠퍼스를 둘러보는 시간을 가졌다. 아래 사진은 [Google Visitor Center Beta](https://goo.gl/maps/eYva4yNqtcF2) 에서 찍었던 사진들이다.
 
-<div class="justified-gallery">
-
 ![Google Visitor Center - 1](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0120.jpg)
 ![Google Visitor Center - 2](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0121.jpg)
 ![Google Visitor Center - 3](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0122.jpg)
 ![Google Visitor Center - 4](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0123.jpg)
 ![Google Visitor Center - 5](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0124.jpg)
 
-</div>
-<br/>
-
-<div class="justified-gallery">
-
 ![업무 공간 모형 - 1](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0131-1.jpg)
 ![업무 공간 모형 - 2](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0132-2.jpg)
 ![업무 공간 모형 - 3](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0133-2.jpg)
-
-</div>
-<br/>
 
 ![사내 캠퍼스 자전가](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0137.jpg)
 
@@ -55,37 +45,22 @@ tags:
 
 그 다음에는 Visitor Center 를 나와서 GooglePlex 로 이동했다.
 
-<div class="justified-gallery">
-
 ![사내 캠퍼스 도로 - 1](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0154.jpg)
 ![사내 캠퍼스 도로 - 2](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0155.jpg)
 ![사내 캠퍼스 도로 - 3](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0156.jpg)
 
-</div>
-<br/>
-
 ![Google 간판](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0159.jpg)
-
-<div class="justified-gallery">
 
 ![Google Main Campus - 1](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0160.jpg)
 ![Google Main Campus - 2](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0170.jpg)
 ![Google Main Campus - 3](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0162.jpg)
 ![Google Main Campus - 4](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0161.jpg)
 
-</div>
-<br/>
-
 ![Visitor 네임태그 발급 기계](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0180.jpg)
 ![사내 카페](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0181.jpg)
 
-<div class="justified-gallery">
-
 ![내부 공간 - 1](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0182.jpg)
 ![내부 공간 - 2](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0183.jpg)
-
-</div>
-<br/>
 
 방문자는 들어갈 수 없는 공간도 있다.
 
@@ -95,13 +70,8 @@ tags:
 
 그 다음에는 어느 회의실로 이동하여 이날 Google 견학을 호스팅해주신 한국인 개발자분들 2명과의 이야기를 갖는 시간이 있었다.
 
-<div class="justified-gallery">
-
 ![Post Thumbnail](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0188-1.jpg)
 ![이야기 시간 - 1](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0190.jpg)
-
-</div>
-<br/>
 
 여기서 나왔던 이야기들을 정리하면 다음과 같다. (메모한 글을 바탕으로 작성하기 때문에 정확하지 않을 수 있다.)
 

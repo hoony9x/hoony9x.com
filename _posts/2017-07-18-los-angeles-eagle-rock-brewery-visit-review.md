@@ -28,28 +28,18 @@ tags:
 
 내부는 대략 이렇게 생겼다.
 
-<div class="justified-gallery">
-
 ![가게 내부 - 1](/assets/images/2017-07-18-los-angeles-eagle-rock-brewery-visit-review/IMG_0540.jpg)
 ![가게 내부 - 2](/assets/images/2017-07-18-los-angeles-eagle-rock-brewery-visit-review/IMG_0542.jpg)
 ![가게 내부 - 3](/assets/images/2017-07-18-los-angeles-eagle-rock-brewery-visit-review/IMG_0543.jpg)
 ![가게 내부 - 4](/assets/images/2017-07-18-los-angeles-eagle-rock-brewery-visit-review/IMG_0547.jpg)
 ![가게 내부 - 5](/assets/images/2017-07-18-los-angeles-eagle-rock-brewery-visit-review/IMG_2965.jpg)
 
-</div>
-<br/>
-
 내부는 그렇게 넓지도 좁지도 않았다. 여기에 오는 사람들은 대부분 여기서 맥주를 바로 마시는 듯 하며 더 마시고 싶으면 몇개 사가지고 가는 듯 하다.
 
 그리고 양조장이다 보니 양조를 위한 공간도 볼 수 있었다.
 
-<div class="justified-gallery">
-
 ![양조기 - 1](/assets/images/2017-07-18-los-angeles-eagle-rock-brewery-visit-review/IMG_0541.jpg)
 ![양조기 - 2](/assets/images/2017-07-18-los-angeles-eagle-rock-brewery-visit-review/IMG_2964.jpg)
-
-</div>
-<br/>
 
 메뉴는 아래 사진을 참고하면 된다.
 
@@ -63,13 +53,8 @@ tags:
 난 "Revolution" 을 많이 사고 싶었지만 마지막 한 묶음만 남았다고 하더라.  
 그래서 할 수 없이 "Revolution" 1묶음과 "Manifesto" 1묶음을 샀다.
 
-<div class="justified-gallery">
-
 ![구입한 맥주 - 1](/assets/images/2017-07-18-los-angeles-eagle-rock-brewery-visit-review/IMG_0544.jpg)
 ![구입한 맥주 - 2](/assets/images/2017-07-18-los-angeles-eagle-rock-brewery-visit-review/IMG_0545.jpg)
-
-</div>
-<br/>
 
 맥주 종류에 따라 병으로 파는 것도 있는데 내가 고른 것은 캔 제품으로만 존재한다고 한다. (물론 가게에서는 잔에 마실 수 있지만…)
 
