@@ -9,6 +9,7 @@ categories:
 tags:
   - "Apple"
   - "iPhone"
+featured: true
 ---
 
 오늘 아침에 iPhone을 오랜만에 DFU 초기화를 하고 사진을 iCloud 로부터 다시 내려받았다. 그런데 초기화 전까지 찍은 날짜 순으로 잘 되어있던 사진들이 갑자기 뒤죽박죽 섞여 있었다. 이런 젠장… 그래서 이번 글은 iPhone 사진 뒤죽박죽 해결방법이다.

@@ -10,6 +10,7 @@ tags:
   - "Google"
   - "United States"
   - "I-SURF 2017"
+featured: true
 ---
 
 [San Francisco 방문 일정](/united-states-2017-6th-week) 중에 7월 28일에는 Google 견학 일정과 Facebook HQ 견학 일정이 있었다.

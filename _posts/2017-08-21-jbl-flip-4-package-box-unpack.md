@@ -9,6 +9,7 @@ categories:
 tags:
   - "JBL"
   - "Speaker"
+featured: true
 ---
 
 어제 (미국시간 기준, 8월 19일) 밤에 아마존에서 [JBL Flip 4](http://www.jbl.com/bluetooth-speakers/JBL+Flip+4.html) 을 주문했는데, Amazon Prime 무료체험중이라 빠른 배송 옵션 선택이 가능했다.

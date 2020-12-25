@@ -9,6 +9,7 @@ categories:
 tags:
   - "United States"
   - "US Visa"
+featured: true
 ---
 
 이번 여름에 UC Irvine에서 I-SURF program (대충 옮기자면 학부생들을 위한 연구 프로젝트 참여 프로그램? 이라고 하면 좋을 것 같다) 에 학교 지원을 받아서 참가를 하게 되었다.
