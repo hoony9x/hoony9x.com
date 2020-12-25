@@ -1,5 +1,6 @@
 ---
 title: 전역 - ETS
+author: hoony9x
 date: 2019-08-30 12:00:00
 header:
   teaser: /assets/images/2019-08-30-ets-from-rok-army/IMG_3382.jpeg

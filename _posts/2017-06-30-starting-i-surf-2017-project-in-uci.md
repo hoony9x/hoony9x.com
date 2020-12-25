@@ -1,5 +1,6 @@
 ---
 title: UCI 에서 I-SURF 2017 프로젝트를 시작하며...
+author: hoony9x
 date: 2017-06-30 12:14:04
 header:
   teaser: /assets/images/2017-06-30-starting-i-surf-2017-project-in-uci/IMG_0072.jpg

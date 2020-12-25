@@ -1,5 +1,6 @@
 ---
 title: NVPModel – NVIDIA Jetson TX2
+author: hoony9x
 date: 2017-07-03 19:48:17
 header:
   teaser: /assets/images/2017-07-03-nvpmodel-nvidia-jetson-tx2/3-1.jpeg

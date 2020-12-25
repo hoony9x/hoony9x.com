@@ -1,7 +1,7 @@
 # Site
 name: "hoony9x"
 title: "hoony9x"
-description: "SW Engineer in Republic of Korea"
+description: "SW Engineer in NAVER Corp, Republic of Korea."
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/favicon-96x96.png'
 baseurl: /
@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  john:
+  hoony9x:
     name: Kihoon Han
     display_name: hoony9x
     avatar: 'assets/images/avatar.png'
@@ -21,7 +21,7 @@ authors:
     email: me@hoony9x.com
     web: https://hoony9x.com
     twitter: https://twitter.com/hoony9x
-    description: ""
+    description: "SW Engineer in NAVER Corp, Republic of Korea."
 
 # Plugins
 plugins:

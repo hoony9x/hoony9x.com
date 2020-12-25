@@ -1,5 +1,6 @@
 ---
 title: J-1 비자 인터뷰 후기 (US J-1 Visa Interview)
+author: hoony9x
 date: 2017-06-23 09:00:00
 header:
   teaser: /assets/images/2017-06-23-us-j-1-visa-interview/IMG_0174.jpg

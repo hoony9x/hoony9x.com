@@ -1,5 +1,6 @@
 ---
 title: iOS 13.4 에서 대한민국 긴급재난문자 관련 변경 사항
+author: hoony9x
 date: 2020-03-23 12:58:14
 header:
   teaser: /assets/images/2020-03-23-ios-13-4-about-emergency-alert-korea/IMG_0460.jpeg

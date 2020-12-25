@@ -1,5 +1,6 @@
 ---
 title: 카카오뱅크 체크카드 얼리버드 혜택은 간편결제 서비스 이용 시 적용 불가?
+author: hoony9x
 date: 2017-10-24 22:53:14
 header:
   teaser: /assets/images/2017-10-24-kakaobank-card-earlybird-benifits-need-to-know/IMG_1036.jpeg

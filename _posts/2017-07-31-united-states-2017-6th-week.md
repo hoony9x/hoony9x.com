@@ -1,5 +1,6 @@
 ---
 title: 목, 금, 그리고 여섯 번째 주말 (7/27 ~ 7/30) – San Francisco 방문 후기
+author: hoony9x
 date: 2017-07-31 17:25:26
 header:
   teaser: /assets/images/2017-07-31-united-states-2017-6th-week/-----------2017-08-19------10.01.27.png

@@ -1,5 +1,6 @@
 ---
 title: 51 Conference 참석 후기 (Visiting 51 Conference)
+author: hoony9x
 date: 2017-08-02 17:50:16
 header:
   teaser: /assets/images/2017-08-02-visiting-51-conference/13227176_594129797423296_6586934613772887569_n.png

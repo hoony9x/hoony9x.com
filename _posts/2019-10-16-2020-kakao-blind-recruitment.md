@@ -1,5 +1,6 @@
 ---
 title: 2020 카카오 신입 개발자 블라인드 채용 지원 후기
+author: hoony9x
 date: 2019-10-16 21:00:00
 header:
   teaser: /assets/images/2019-10-16-2020-kakao-blind-recruitment/IMG_0223-1.jpeg

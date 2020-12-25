@@ -1,5 +1,6 @@
 ---
 title: Ghost에서 AWS S3를 이미지 저장소로 사용하기 - 2편
+author: hoony9x
 date: 2018-11-24 23:35:01
 header:
   teaser: /assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.14.47.png

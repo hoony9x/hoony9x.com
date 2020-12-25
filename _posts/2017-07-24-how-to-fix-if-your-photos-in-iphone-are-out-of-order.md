@@ -1,5 +1,6 @@
 ---
 title: iPhone 사진 뒤죽박죽 되었을 때 해결방법
+author: hoony9x
 date: 2017-07-24 21:07:28
 updated: 2019-07-30 16:54:23
 header:

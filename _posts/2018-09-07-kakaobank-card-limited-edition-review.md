@@ -1,5 +1,6 @@
 ---
 title: 카카오뱅크 한정판 체크카드 (Limited Edition) 수령 후기
+author: hoony9x
 date: 2018-09-07 23:05:23
 header:
   teaser: /assets/images/2018-09-07-kakaobank-card-limited-edition-review/KakaoTalk_Photo_2018-09-07-18-31-18.jpeg

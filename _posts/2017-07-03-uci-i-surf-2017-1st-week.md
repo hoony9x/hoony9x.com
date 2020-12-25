@@ -1,5 +1,6 @@
 ---
 title: UCI I-SURF 2017 참가 1주차 정리 글
+author: hoony9x
 date: 2017-07-03 21:13:09
 thumbnail: /assets/images/2017-07-03-uci-i-surf-2017-1st-week/IMG_2701.jpg
 categories:

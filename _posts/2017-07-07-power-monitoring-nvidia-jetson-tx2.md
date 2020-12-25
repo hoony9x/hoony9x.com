@@ -1,5 +1,6 @@
 ---
 title: Power Monitoring – NVIDIA Jetson TX2
+author: hoony9x
 date: 2017-07-07 19:05:54
 header:
   teaser: /assets/images/2017-07-07-power-monitoring-nvidia-jetson-tx2/graph_sample.jpeg

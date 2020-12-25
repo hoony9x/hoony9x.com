@@ -1,5 +1,6 @@
 ---
 title: 카카오뱅크 체크카드 수령 후기
+author: hoony9x
 date: 2017-08-29 21:41:03
 header:
   teaser: /assets/images/2017-08-29-kakaobank-check-card-review/IMG_0740-1-2.jpg

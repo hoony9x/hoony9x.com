@@ -1,5 +1,6 @@
 ---
 title: JBL Flip 4 개봉기 (JBL Flip 4 Unboxing)
+author: hoony9x
 date: 2017-08-21 21:31:56
 header:
   teaser: /assets/images/2017-08-21-jbl-flip-4-package-box-unpack/IMG_0627.jpg
