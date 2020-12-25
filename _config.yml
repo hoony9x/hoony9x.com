@@ -6,7 +6,7 @@ logo: 'assets/images/logo.svg'
 favicon: 'assets/images/favicon-96x96.png'
 baseurl: /
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'blog-khhan1993-com'
 mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
