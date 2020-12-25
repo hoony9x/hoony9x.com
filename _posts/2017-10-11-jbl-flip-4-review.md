@@ -2,9 +2,7 @@
 title: JBL Flip 4 사용 후기 (JBL Flip 4 Review)
 author: hoony9x
 date: 2017-10-11 21:57:01
-header:
-  teaser: /assets/images/2017-10-11-jbl-flip-4-review/IMG_0627-3.jpg
-  image: /assets/images/2017-10-11-jbl-flip-4-review/IMG_0627-3.jpg
+image: assets/images/2017-10-11-jbl-flip-4-review/IMG_0627-3.jpg
 categories:
   - "Product Review"
   - "Electronics"

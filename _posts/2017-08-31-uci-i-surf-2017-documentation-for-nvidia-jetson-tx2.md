@@ -2,9 +2,7 @@
 title: I-SURF 2017 Documentation for NVIDIA Jetson TX2
 author: hoony9x
 date: 2017-08-31 21:48:26
-header:
-  teaser: /assets/images/2017-08-31-uci-i-surf-2017-documentation-for-nvidia-jetson-tx2/TX2_Module_170203_0017_TRANSP_2000px-1.png
-  image: /assets/images/2017-08-31-uci-i-surf-2017-documentation-for-nvidia-jetson-tx2/TX2_Module_170203_0017_TRANSP_2000px-1.png
+image: assets/images/2017-08-31-uci-i-surf-2017-documentation-for-nvidia-jetson-tx2/TX2_Module_170203_0017_TRANSP_2000px-1.png
 categories:
   - "Experience"
   - "UCI I-SURF 2017"

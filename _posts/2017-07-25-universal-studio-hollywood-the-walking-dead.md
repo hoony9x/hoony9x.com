@@ -2,9 +2,7 @@
 title: Universal Studio Hollywood – The Walking Dead
 author: hoony9x
 date: 2017-07-25 13:39:19
-header:
-  teaser: /assets/images/2017-07-25-universal-studio-hollywood-the-walking-dead/IMG_0740.jpg
-  image: /assets/images/2017-07-25-universal-studio-hollywood-the-walking-dead/IMG_0740.jpg
+image: assets/images/2017-07-25-universal-studio-hollywood-the-walking-dead/IMG_0740.jpg
 categories:
   - "Travel"
   - "United States"

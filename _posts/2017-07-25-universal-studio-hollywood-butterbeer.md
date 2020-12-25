@@ -2,9 +2,7 @@
 title: Universal Studio Hollywood – Butterbeer 를 마셔봤다.
 author: hoony9x
 date: 2017-07-25 13:32:36
-header:
-  teaser: /assets/images/2017-07-25-universal-studio-hollywood-butterbeer/IMG_3070.jpg
-  image: /assets/images/2017-07-25-universal-studio-hollywood-butterbeer/IMG_3070.jpg
+image: assets/images/2017-07-25-universal-studio-hollywood-butterbeer/IMG_3070.jpg
 categories:
   - "Travel"
   - "United States"

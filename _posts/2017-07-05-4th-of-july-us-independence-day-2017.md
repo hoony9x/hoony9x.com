@@ -2,9 +2,7 @@
 title: 4th of July (US Independence Day) 2017
 author: hoony9x
 date: 2017-07-05 15:08:39
-header:
-  teaser: /assets/images/2017-07-05-4th-of-july-us-independence-day-2017/IMG_0234.jpg
-  image: /assets/images/2017-07-05-4th-of-july-us-independence-day-2017/IMG_0234.jpg
+image: assets/images/2017-07-05-4th-of-july-us-independence-day-2017/IMG_0234.jpg
 categories:
   - "Photo"
   - "United States"

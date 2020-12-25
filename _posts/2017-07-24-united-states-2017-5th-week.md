@@ -2,9 +2,7 @@
 title: 다섯 번째 주말 (7/22 ~ 7/23) – Universal Studio Hollywood
 author: hoony9x
 date: 2017-07-24 13:17:18
-header:
-  teaser: /assets/images/2017-07-24-united-states-2017-5th-week/IMG_0706.jpg
-  image: /assets/images/2017-07-24-united-states-2017-5th-week/IMG_0706.jpg
+image: assets/images/2017-07-24-united-states-2017-5th-week/IMG_0706.jpg
 categories:
   - "Travel"
   - "United States"

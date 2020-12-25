@@ -2,9 +2,7 @@
 title: 네 번째 주말 (7/15 ~ 7/16) – Los Angeles
 author: hoony9x
 date: 2017-07-17 21:15:11
-header:
-  teaser: /assets/images/2017-07-17-united-states-2017-4th-week/IMG_0574.jpg
-  image: /assets/images/2017-07-17-united-states-2017-4th-week/IMG_0574.jpg
+image: assets/images/2017-07-17-united-states-2017-4th-week/IMG_0574.jpg
 categories:
   - "Travel"
   - "United States"

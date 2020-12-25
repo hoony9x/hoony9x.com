@@ -2,9 +2,7 @@
 title: 로스앤젤레스 국제공항 으로 떠나다 (Depart to LAX)
 author: hoony9x
 date: 2017-06-26 15:27:32
-header:
-  teaser: /assets/images/2017-06-26-depart-to-lax/lax-aeroporto-internacional-de-los-anfeles.jpg
-  image: /assets/images/2017-06-26-depart-to-lax/lax-aeroporto-internacional-de-los-anfeles.jpg
+image: assets/images/2017-06-26-depart-to-lax/lax-aeroporto-internacional-de-los-anfeles.jpg
 categories:
   - "Experience"
   - "UCI I-SURF 2017"

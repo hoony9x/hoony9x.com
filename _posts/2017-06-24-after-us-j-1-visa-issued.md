@@ -2,9 +2,7 @@
 title: J-1 비자 발급 후 출국 전까지 했던 것들
 author: hoony9x
 date: 2017-06-24 12:27:32
-header:
-  teaser: /assets/images/2017-06-24-after-us-j-1-visa-issued/KakaoTalk_Photo_2018-10-20-14-11-49.jpeg
-  image: /assets/images/2017-06-24-after-us-j-1-visa-issued/KakaoTalk_Photo_2018-10-20-14-11-49.jpeg
+image: assets/images/2017-06-24-after-us-j-1-visa-issued/KakaoTalk_Photo_2018-10-20-14-11-49.jpeg
 categories:
   - "Experience"
   - "UCI I-SURF 2017"

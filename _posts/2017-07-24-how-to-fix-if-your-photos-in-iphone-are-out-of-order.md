@@ -3,9 +3,7 @@ title: iPhone 사진 뒤죽박죽 되었을 때 해결방법
 author: hoony9x
 date: 2017-07-24 21:07:28
 updated: 2019-07-30 16:54:23
-header:
-  teaser: /assets/images/2017-07-24-how-to-fix-if-your-photos-in-iphone-are-out-of-order/IMG_0229.png
-  image: /assets/images/2017-07-24-how-to-fix-if-your-photos-in-iphone-are-out-of-order/IMG_0229.png
+image: assets/images/2017-07-24-how-to-fix-if-your-photos-in-iphone-are-out-of-order/IMG_0229.png
 categories:
   - "Tech"
 tags:

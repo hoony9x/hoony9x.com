@@ -2,9 +2,7 @@
 title: Los Angeles – Eagle Rock Brewery 방문 후기
 author: hoony9x
 date: 2017-07-18 23:44:57
-header:
-  teaser: /assets/images/2017-07-18-los-angeles-eagle-rock-brewery-visit-review/IMG_0548.jpg
-  image: /assets/images/2017-07-18-los-angeles-eagle-rock-brewery-visit-review/IMG_0548.jpg
+image: assets/images/2017-07-18-los-angeles-eagle-rock-brewery-visit-review/IMG_0548.jpg
 categories:
   - "Travel"
   - "United States"

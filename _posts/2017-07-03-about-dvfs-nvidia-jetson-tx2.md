@@ -2,9 +2,7 @@
 title: Dynamic Voltage and Frequency Scaling (DVFS) 에 관하여
 author: hoony9x
 date: 2017-07-03 15:10:10
-header:
-  teaser: /assets/images/2017-07-03-about-dvfs-nvidia-jetson-tx2/DFVS_Graph.001.jpeg
-  image: /assets/images/2017-07-03-about-dvfs-nvidia-jetson-tx2/DFVS_Graph.001.jpeg
+image: assets/images/2017-07-03-about-dvfs-nvidia-jetson-tx2/DFVS_Graph.001.jpeg
 categories:
   - "Experience"
   - "UCI I-SURF 2017"

@@ -2,9 +2,7 @@
 title: Universal Studio Hollywood – Studio Tour 후기
 author: hoony9x
 date: 2017-07-26 16:47:34
-header:
-  teaser: /assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0750.jpg
-  image: /assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0750.jpg
+image: assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0750.jpg
 categories:
   - "Travel"
   - "United States"

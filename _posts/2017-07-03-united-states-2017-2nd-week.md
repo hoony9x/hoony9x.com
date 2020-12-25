@@ -2,9 +2,7 @@
 title: 두 번째 주말 (7/1 ~ 7/2) – New Port Beach
 author: hoony9x
 date: 2017-07-03 22:25:24
-header:
-  teaser: /assets/images/2017-07-03-united-states-2017-2nd-week/IMG_0128.jpg
-  image: /assets/images/2017-07-03-united-states-2017-2nd-week/IMG_0128.jpg
+image: assets/images/2017-07-03-united-states-2017-2nd-week/IMG_0128.jpg
 categories:
   - "Travel"
   - "United States"

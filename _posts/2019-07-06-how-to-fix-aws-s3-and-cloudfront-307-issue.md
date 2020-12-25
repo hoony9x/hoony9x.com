@@ -2,9 +2,7 @@
 title: AWS S3 와 CloudFront 연동 시 S3 Bucket 으로 307 redirect 되는 문제 해결
 author: hoony9x
 date: 2019-07-06 23:49:40
-header:
-  teaser: /assets/images/2019-07-06-how-to-fix-aws-s3-and-cloudfront-307-issue/curl-request.png
-  image: /assets/images/2019-07-06-how-to-fix-aws-s3-and-cloudfront-307-issue/curl-request.png
+image: assets/images/2019-07-06-how-to-fix-aws-s3-and-cloudfront-307-issue/curl-request.png
 categories:
   - "Develop"
   - "AWS"
