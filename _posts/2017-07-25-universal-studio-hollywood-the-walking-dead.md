@@ -24,15 +24,15 @@ tags:
 
 입구는 이렇게 생겼다.
 
-![입구]({{ site.cdn-url }}/assets/images/2017-07-25-universal-studio-hollywood-the-walking-dead/IMG_0740.jpg)
+![입구](/assets/images/2017-07-25-universal-studio-hollywood-the-walking-dead/IMG_0740.jpg)
 
 내부도 여러 소품이나 핏자국으로 꾸며둔 상태이다.
 
-![내부]({{ site.cdn-url }}/assets/images/2017-07-25-universal-studio-hollywood-the-walking-dead/IMG_0743.jpg)
+![내부](/assets/images/2017-07-25-universal-studio-hollywood-the-walking-dead/IMG_0743.jpg)
 
 핏자국이 있는 벽을 보니 잠시…
 
-![내부]({{ site.cdn-url }}/assets/images/2017-07-25-universal-studio-hollywood-the-walking-dead/IMG_3072.jpg)
+![내부](/assets/images/2017-07-25-universal-studio-hollywood-the-walking-dead/IMG_3072.jpg)
 
 이런 것도 찍어봤다.
 

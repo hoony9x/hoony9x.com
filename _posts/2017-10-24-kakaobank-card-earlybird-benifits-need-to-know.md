@@ -17,7 +17,7 @@ tags:
 
 그래서 나는 10월 1일에 Yes24에서 책을 하나 샀다. 31400원 결제했다.
 
-![카카오뱅크 화면 - 1]({{ site.cdn-url }}/assets/images/2017-10-24-kakaobank-card-earlybird-benifits-need-to-know/IMG_0959.jpg)
+![카카오뱅크 화면 - 1](/assets/images/2017-10-24-kakaobank-card-earlybird-benifits-need-to-know/IMG_0959.jpg)
 
 그런데, 캐시백 3천원이 들어오지 않았다?! (물론 전월실적 30만원 이상 결제는 충족한다)
 
@@ -28,13 +28,13 @@ tags:
 
 그리고...
 
-![카카오뱅크 화면 - 2]({{ site.cdn-url }}/assets/images/2017-10-24-kakaobank-card-earlybird-benifits-need-to-know/IMG_0951.jpg)
+![카카오뱅크 화면 - 2](/assets/images/2017-10-24-kakaobank-card-earlybird-benifits-need-to-know/IMG_0951.jpg)
 
 ?!?!?! 이런 내용이 있었나???
 
 그래서 얼리버드 혜택 내용을 처음부터 끝까지 정독을 해 봤더니...
 
-![카카오뱅크 화면 - 3]({{ site.cdn-url }}/assets/images/2017-10-24-kakaobank-card-earlybird-benifits-need-to-know/IMG_0958.jpg)
+![카카오뱅크 화면 - 3](/assets/images/2017-10-24-kakaobank-card-earlybird-benifits-need-to-know/IMG_0958.jpg)
 
 그래.. 저기 써있었다. 제대로 읽지 않은 내 잘못이지.
 

@@ -28,7 +28,7 @@ featured: true
 
 채용 소식은 여러 경로를 통해 올라왔는데 공식 지원 링크는 여기였어요. 들어가보면 어느 계열사에 지원할 수 있는지, 그리고 대략적인 일정이 나와 있어요. 저는 카카오에 지원했어요.
 
-![배너 이미지]({{ site.cdn-url }}/assets/images/2019-10-16-2020-kakao-blind-recruitment/8a20d83b-c976-4c0e-a4cd-778963703513-1.jpeg)
+![배너 이미지](/assets/images/2019-10-16-2020-kakao-blind-recruitment/8a20d83b-c976-4c0e-a4cd-778963703513-1.jpeg)
 
 지원할 때 적는 정보는
 
@@ -39,13 +39,13 @@ featured: true
 
 이게 전부에요. 생일이나 학교 정보 등등 추가로 적는 것이 없어요.
 
-![지원서 접수 후 화면]({{ site.cdn-url }}/assets/images/2019-10-16-2020-kakao-blind-recruitment/Screen-Shot-2019-10-15-at-4.33.11-PM.png)
+![지원서 접수 후 화면](/assets/images/2019-10-16-2020-kakao-blind-recruitment/Screen-Shot-2019-10-15-at-4.33.11-PM.png)
 
 접수 완료 후 온 메일의 모습이에요. 이제 저 날짜에 온라인 코딩 테스트를 진행하면 됩니다.
 
 ## 온라인 코딩 테스트
 
-![온라인 코딩 테스트 안내 메일]({{ site.cdn-url }}/assets/images/2019-10-16-2020-kakao-blind-recruitment/Screen-Shot-2019-10-15-at-9.24.38-PM.png)
+![온라인 코딩 테스트 안내 메일](/assets/images/2019-10-16-2020-kakao-blind-recruitment/Screen-Shot-2019-10-15-at-9.24.38-PM.png)
 
 전역하고 1주일 만에 코딩 테스트를 치르려고 하니까 정말 힘들었어요. 굳어버린 머리가 깨어나지 않은 상태라 코드 작성을 빠르게 하지 못했어요.
 
@@ -567,7 +567,7 @@ vector<int> solution(vector<string> words, vector<string> queries) {
 
 떨어질 줄 알았던 온라인 코딩 테스트를 통과했어요. 그래서 오프라인 코딩 테스트를 준비하게 되었어요.
 
-![온라인 코딩 테스트 안내 메일]({{ site.cdn-url }}/assets/images/2019-10-16-2020-kakao-blind-recruitment/Screen-Shot-2019-10-15-at-9.25.46-PM.png)
+![온라인 코딩 테스트 안내 메일](/assets/images/2019-10-16-2020-kakao-blind-recruitment/Screen-Shot-2019-10-15-at-9.25.46-PM.png)
 
 오프라인 테스트는 온라인 테스트와 다르게 흔히 보던 PS 문제가 아니었어요.
 
@@ -590,7 +590,7 @@ vector<int> solution(vector<string> words, vector<string> queries) {
 - [2019 카카오 블라인드 공채 2차 오프라인 코딩 테스트 문제 해설](https://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/)
 - [관련 GitHub Repository](https://github.com/kakao-recruit/2019-blind-2nd-elevator)
 
-![오프라인 코딩 테스트 좌석 명찰]({{ site.cdn-url }}/assets/images/2019-10-16-2020-kakao-blind-recruitment/IMG_0223-1.jpeg)
+![오프라인 코딩 테스트 좌석 명찰](/assets/images/2019-10-16-2020-kakao-blind-recruitment/IMG_0223-1.jpeg)
 
 오프라인 테스트는 카카오 판교오피스 인근에 있는 거대한 강당에서 진행되었어요.  
 (나중에 들은 이야기인데 여기 말고 몇 개 더 다른 장소에서도 테스트 진행이 있었던 것 같아요)
@@ -669,13 +669,13 @@ vector<int> solution(vector<string> words, vector<string> queries) {
 
 이후로는 이제 지원한 계열사에 따라 면접 과정이 완전히 달라져요. (저는 카카오에 지원을 했어요)
 
-![1차 면접 안내 메일 1]({{ site.cdn-url }}/assets/images/2019-10-16-2020-kakao-blind-recruitment/Screen-Shot-2019-10-16-at-11.38.09-AM.png)
+![1차 면접 안내 메일 1](/assets/images/2019-10-16-2020-kakao-blind-recruitment/Screen-Shot-2019-10-16-at-11.38.09-AM.png)
 
 처음 지원할 때는 이름과 이메일, 연락처만 적었기 때문에 추가적인 정보를 요구해요. 들어가게 되면 개발 경험 등을 추가적으로 적게 되어요.
 
 블라인드 채용이다 보니 학력을 적는 칸은 존재하지 않았어요. 다만 졸업 예정 시기를 적는 칸은 있었어요.
 
-![1차 면접 안내 메일 2]({{ site.cdn-url }}/assets/images/2019-10-16-2020-kakao-blind-recruitment/Screen-Shot-2019-10-16-at-11.42.19-AM.png)
+![1차 면접 안내 메일 2](/assets/images/2019-10-16-2020-kakao-blind-recruitment/Screen-Shot-2019-10-16-at-11.42.19-AM.png)
 
 <!-- **"토론형 인터뷰"** 가 뭔지 참 궁금했어요. (왜냐면 면접 경험이 별로 없었기 때문이죠)
 
@@ -706,7 +706,7 @@ vector<int> solution(vector<string> words, vector<string> queries) {
 
 혹시? 했지만 역시 떨어졌어요.
 
-![망했어요]({{ site.cdn-url }}/assets/images/2019-10-16-2020-kakao-blind-recruitment/Screen-Shot-2019-10-16-at-12.03.38-PM.png)
+![망했어요](/assets/images/2019-10-16-2020-kakao-blind-recruitment/Screen-Shot-2019-10-16-at-12.03.38-PM.png)
 
 그래도 좋은 경험이 되었어요. 앞으로 이런 유형의 면접에 대해서도 준비를 좀 해야 할 것이고 코딩 테스트도 문제를 더 잘 풀 수 있도록 연습을 해야 하겠지요.
 

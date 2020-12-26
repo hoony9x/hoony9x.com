@@ -31,17 +31,17 @@ tags:
 
 - IAM Management Console 이동
 
-![IAM Setup - 1]({{ site.cdn-url }}/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.17.35.png)
+![IAM Setup - 1](/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.17.35.png)
 
 - 이런 화면이 뜨면 그냥 닫아주면 된다.  
 (여기서 Get Started with IAM Users 로 가도 상관은 없는데, 분명히 Don’t show me this message again 을 눌러서 저 창이 뜨지 않는 사람도 있을 것이라 생각한다)
 
-![IAM Setup - 2]({{ site.cdn-url }}/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.21.14.png)
+![IAM Setup - 2](/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.21.14.png)
 
 - 왼쪽은 이렇게 되어 있다. 일단 Policies 로 이동한다.
 - 이동한 후에 Create Policy 버튼을 누른다.
 
-![IAM Setup - 3]({{ site.cdn-url }}/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.23.11.png)
+![IAM Setup - 3](/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.23.11.png)
 
 - JSON 탭을 누르면 다음과 같이 데이터를 직접 입력할 수 있게 된다. 밑의 내용을 그대로 사용하면 된다.
 
@@ -78,30 +78,30 @@ tags:
 - `<your_bucket_name>`에는 1편에서 생성했던 bucket 의 이름을 넣어주면 된다. (나의 경우는 cdn.khhan1993.com 이다.)
 - 하단에 있는 Review policy 를 눌러 다음으로 진행한다.
 
-![IAM Setup - 4]({{ site.cdn-url }}/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.26.32.png)
+![IAM Setup - 4](/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.26.32.png)
 
 - Name 부분은 알아서 적으면 된다.
 - 다른 부분은 건드릴 필요가 딱히 없다. 다 했으면 Create policy 버튼을 누르면 된다.
 - 그 다음에는 Users 탭으로 이동한다. 아마도 Add user 버튼이 있을 것인데 눌러주자.
 
-![IAM Setup - 5]({{ site.cdn-url }}/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.30.26.png)
+![IAM Setup - 5](/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.30.26.png)
 
 - User name 은 알아서 지정하면 된다.
 - Access type 은 Programmatic access 만 체크하도록 한다.
 - 다 했으면 다음으로 넘어간다.
 
-![IAM Setup - 6]({{ site.cdn-url }}/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.32.33-1.png)
+![IAM Setup - 6](/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.32.33-1.png)
 
 - Permission 을 지정하는 단계이다. 세 번째에 있는 Attach existing policies directly 를 선택한다.
 - 하단에 있는 검색창에서 방금 전에 생성했던 policy 이름을 입력하면 검색 결과에 나오게 될 것이다. 해당 policy 를 선택하면 된다.
 - 다 했으면 Next 눌러서 넘어가도록 하자.
 - 다음 단계는 선택사항이다. 따로 지정할 내용이 없다면 넘어가도 좋다.
 
-![IAM Setup - 7]({{ site.cdn-url }}/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.36.20-1.png)
+![IAM Setup - 7](/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.36.20-1.png)
 
 - Create user 를 눌러 생성을 하도록 하자.
 
-![IAM Setup - 8]({{ site.cdn-url }}/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.37.40-1.png)
+![IAM Setup - 8](/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.37.40-1.png)
 
 - IAM user 생성이 완료되면 다음과 같이 Access key ID 와 Secret access key 를 확인할 수 있다.
 - 이 값들은 이 화면을 벗어나게 되면 다시 확인할 수 없으니 이 창을 그대로 열어둔 채 밑의 단계를 진행하면 된다.
@@ -110,7 +110,7 @@ tags:
 
 연동을 위한 adapter 는 [ghost-storage-adapter-s3](https://www.npmjs.com/package/ghost-storage-adapter-s3) 를 사용하게 될 것이다.
 
-![Ghost 설치된 경로 ls 결과]({{ site.cdn-url }}/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.46.45.png)
+![Ghost 설치된 경로 ls 결과](/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.46.45.png)
 
 ghost 가 설치된 경로로 가면 다음과 같이 되어 있을 것이다. ([ghost-cli](https://github.com/TryGhost/Ghost-CLI) 를 이용하여 production 으로 설치했다고 가정한다)
 
@@ -127,7 +127,7 @@ $ cp -r ./node_modules/ghost-storage-adapter-s3 ./content/adapters/storage/s3
 
 ### 최종 설정
 
-![Ghost 설치된 경로 ls 결과]({{ site.cdn-url }}/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.46.45.png)
+![Ghost 설치된 경로 ls 결과](/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------2.46.45.png)
 
 ghost 가 설치된 경로에 보면 config.production.json 이란 파일이 있다.
 
@@ -197,7 +197,7 @@ ghost-cli 를 이용하여 설치한 후 따로 설정을 바꾼 것이 없다�
 - custom domain 사용 시: `https://` 형태로 입력
 - custom domain 미사용 시: 밑의 그림 참고
 
-![CloudFront domain name 확인]({{ site.cdn-url }}/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------3.04.38.png)
+![CloudFront domain name 확인](/assets/images/2018-11-24-use-aws-s3-as-image-storage-for-ghost-part-2/-----------2018-11-24-------3.04.38.png)
 
 - custom domain 미사용 시 위 그림에 있는 Domain Name 부분에 해당하는 값을 적으면 된다.  
 (https://XXXXXX.cloudfront.net 형식)

@@ -24,11 +24,11 @@ tags:
 
 나도 이게 뭔지 좀 궁금했었다. 그래서 한번 사 먹어봤다.
 
-![버터맥주 - 1]({{ site.cdn-url }}/assets/images/2017-07-25-universal-studio-hollywood-butterbeer/IMG_0738.jpg)
-![버터맥주 - 2]({{ site.cdn-url }}/assets/images/2017-07-25-universal-studio-hollywood-butterbeer/IMG_0739.jpg)
+![버터맥주 - 1](/assets/images/2017-07-25-universal-studio-hollywood-butterbeer/IMG_0738.jpg)
+![버터맥주 - 2](/assets/images/2017-07-25-universal-studio-hollywood-butterbeer/IMG_0739.jpg)
 
-![버터맥주 - 3]({{ site.cdn-url }}/assets/images/2017-07-25-universal-studio-hollywood-butterbeer/IMG_3070.jpg)
-![버터맥주 - 4]({{ site.cdn-url }}/assets/images/2017-07-25-universal-studio-hollywood-butterbeer/IMG_3071.jpg)
+![버터맥주 - 3](/assets/images/2017-07-25-universal-studio-hollywood-butterbeer/IMG_3070.jpg)
+![버터맥주 - 4](/assets/images/2017-07-25-universal-studio-hollywood-butterbeer/IMG_3071.jpg)
 
 어린이 손님들도 많은 것을 고려한 것인지, 무알콜 맥주이다.
 

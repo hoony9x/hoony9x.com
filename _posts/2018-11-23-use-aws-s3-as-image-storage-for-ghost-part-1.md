@@ -35,12 +35,12 @@ tags:
 - S3 Console 이동
 - Create Bucket 클릭
 
-![S3 Bucket Create - 1]({{ site.cdn-url }}/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------7.26.21.png)
+![S3 Bucket Create - 1](/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------7.26.21.png)
 
 - Bucket 이름 지정 (나의 경우는 cdn.khhan1993.com 으로 지정했다.)
 - Configure options 는 나의 경우는 따로 수정한 것이 없다.
 
-![S3 Bucket Create - 2]({{ site.cdn-url }}/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------7.28.56.png)
+![S3 Bucket Create - 2](/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------7.28.56.png)
 
 - Set permissions 에서 “Manage public bucket policies for this bucket” 확인 후 체크박스를 둘 다 해제한다.
 - 이렇게 하지 않으면 이후에 Public Policy 지정을 할 때 Access Denied 가 발생하게 된다.
@@ -50,7 +50,7 @@ tags:
 
 - 생성된 Bucket 을 클릭 후 Permissions 탭으로 이동한다.
 
-![S3 Bucket Permission Setup]({{ site.cdn-url }}/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------8.44.35.png)
+![S3 Bucket Permission Setup](/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------8.44.35.png)
 
 - Bucket Policy 클릭 후 밑의 내용을 그대로 붙여넣는다.  
 (해당 bucket에 대해서 모든 사용자(익명 포함)에게 읽기 권한을 부여하게 된다.)
@@ -80,24 +80,24 @@ tags:
 
 - CloudFront Console 이동
 
-![CloudFront Create - 1]({{ site.cdn-url }}/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------9.31.08.png)
+![CloudFront Create - 1](/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------9.31.08.png)
 
 - 첫 번째에 있는 Web 을 클릭
 
-![CloudFront Create - 2]({{ site.cdn-url }}/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------9.31.59.png)
+![CloudFront Create - 2](/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------9.31.59.png)
 
 - Origin Domain Name 을 클릭하면 방금 전에 생성한 Bucket 이 보일 것이다. 이것을 선택하도록 하자.
 
-![CloudFront Create - 3]({{ site.cdn-url }}/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------9.33.53.png)
+![CloudFront Create - 3](/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------9.33.53.png)
 
 - Default Cache Behavior Settings 에서 Viewer Protocol Policy 는 두 번째 항목을 선택하도록 한다.  
 (이렇게 하는 이유는, 만약 https 가 적용된 사이트에서 http 로 resource 요청을 할 경우 브라우저 자체에서 이를 차단해버리는 경우가 발생한다. 이를 미연에 방지하기 위해 https 로 redirect 를 하도록 하려 한다.)
 
-![CloudFront Create - 4]({{ site.cdn-url }}/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------9.36.06.png)
+![CloudFront Create - 4](/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------9.36.06.png)
 
 - Compress Objects Automatically 는 Yes 를 선택하도록 한다.
 
-![CloudFront Create - 5]({{ site.cdn-url }}/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------9.37.27.png)
+![CloudFront Create - 5](/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------9.37.27.png)
 
 - Distribution Settings 에서 만약 자신의 Custom Domain 을 사용하고 싶다면 Alternate Domain Names 부분에 사용할 도메인 이름을 적으면 된다.
 (나의 경우 cdn.khhan1993.com 을 적었다)
@@ -110,7 +110,7 @@ tags:
 
 - Route53 Console 로 이동
 
-![Route53 Setup]({{ site.cdn-url }}/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------9.47.54.png)
+![Route53 Setup](/assets/images/2018-11-23-use-aws-s3-as-image-storage-for-ghost-part-1/-----------2018-11-23------9.47.54.png)
 
 - 도메인 네임 지정
 - Type 은 A Record

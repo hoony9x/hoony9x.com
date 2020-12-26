@@ -16,7 +16,7 @@ tags:
 
 <!-- more -->
 
-![51 Conference Panel]({{ site.cdn-url }}/assets/images/2017-08-02-visiting-51-conference/IMG_0362.jpg)
+![51 Conference Panel](/assets/images/2017-08-02-visiting-51-conference/IMG_0362.jpg)
 
 홈페이지에는 다음과 같이 소개가 되어 있다.
 

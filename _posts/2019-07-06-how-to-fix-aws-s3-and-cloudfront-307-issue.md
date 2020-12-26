@@ -18,7 +18,7 @@ tags:
 
 <!-- more -->
 
-![?!?!]({{ site.cdn-url }}/assets/images/2019-07-06-how-to-fix-aws-s3-and-cloudfront-307-issue/web-browser.png)
+![?!?!](/assets/images/2019-07-06-how-to-fix-aws-s3-and-cloudfront-307-issue/web-browser.png)
 
 정상적이라면 https://hyu-oms.com 으로 떠야 할 도메인이... 
 갑자기 https://hyu-oms.com.s3.ap-northeast-2.amazonaws.com/index.html 로 지 혼자 redirect 가 되는 것이었다.
@@ -31,7 +31,7 @@ tags:
 
 말로 하자니 뭔 소린가 싶을 수도 있기 때문에 사진으로 보여주자면
 
-![CloudFront Setup]({{ site.cdn-url }}/assets/images/2019-07-06-how-to-fix-aws-s3-and-cloudfront-307-issue/cloudfront-setup.png)
+![CloudFront Setup](/assets/images/2019-07-06-how-to-fix-aws-s3-and-cloudfront-307-issue/cloudfront-setup.png)
 
 위 사진에서 보이는 hyu-oms.com.s3.amazonaws.com 을  
 hyu-oms.com.s3-ap-northeast-2.amazonaws.com (Seoul Region 일 경우)  
@@ -39,11 +39,11 @@ hyu-oms.com.s3-ap-northeast-2.amazonaws.com (Seoul Region 일 경우)
 
 수정 후의 모습은 다음과 같다.
 
-![수정 후]({{ site.cdn-url }}/assets/images/2019-07-06-how-to-fix-aws-s3-and-cloudfront-307-issue/after-setup-changed.png)
+![수정 후](/assets/images/2019-07-06-how-to-fix-aws-s3-and-cloudfront-307-issue/after-setup-changed.png)
 
 그리고 다시 테스트를 해 봤다.
 
-![수정 결과]({{ site.cdn-url }}/assets/images/2019-07-06-how-to-fix-aws-s3-and-cloudfront-307-issue/fixed.png)
+![수정 결과](/assets/images/2019-07-06-how-to-fix-aws-s3-and-cloudfront-307-issue/fixed.png)
 
 이제 잘 된다.
 

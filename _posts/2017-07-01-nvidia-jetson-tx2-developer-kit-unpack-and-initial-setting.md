@@ -17,7 +17,7 @@ NVIDIA Jetson TX2 Developer Kit 개봉기 및 초기 설정에 관한 글이다.
 
 <!-- more -->
 
-![http://www.nvidia.com/object/embedded-systems-dev-kits-modules.html]({{ site.cdn-url }}/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/1.png)
+![http://www.nvidia.com/object/embedded-systems-dev-kits-modules.html](/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/1.png)
 
 Developer Kit 은 Jetson TX2 보드에 여러 가지 입출력 인터페이스가 장착된 보드가 함께 있는 것이다.
 
@@ -25,11 +25,11 @@ Developer Kit 은 Jetson TX2 보드에 여러 가지 입출력 인터페이스�
 
 TX2 의 사양은 다음과 같다.
 
-![http://www.nvidia.com/object/embedded-systems-dev-kits-modules.html]({{ site.cdn-url }}/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/2.png)
+![http://www.nvidia.com/object/embedded-systems-dev-kits-modules.html](/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/2.png)
 
 구성품들을 다 꺼내서 연결하면 다음과 같은 모습이 된다.
 
-![NVIDIA Jetson TX2 개발보드 실물]({{ site.cdn-url }}/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/3.jpeg)
+![NVIDIA Jetson TX2 개발보드 실물](/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/3.jpeg)
 
 기본 제공 운영체제는 Ubuntu 16.04 LTS 이며 초기 설정을 자동으로 해주는 JetPack 이라는 프로그램을 제공한다.
 
@@ -48,11 +48,11 @@ $ ./JetPack-L4T-3.0-linux-x64.run
 
 그러면 GUI로 Installer 가 뜨게 된다.
 
-![Installer - 1]({{ site.cdn-url }}/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/4.png)
+![Installer - 1](/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/4.png)
 
 Next를 누르다 보면 Select Development Environment 선택 화면이 뜬다.
 
-![Installer - 2]({{ site.cdn-url }}/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/5.png)
+![Installer - 2](/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/5.png)
 
 만약 다른 보드를 쓰고 있다면 알아서 잘 선택하도록 하자.
 
@@ -60,7 +60,7 @@ Next를 누르면 root 권한이 필요한지 비밀번호를 요구한다. 현�
 
 그 다음에는 어떤 Component 를 설치할지 여부를 묻는 창이 뜬다.
 
-![Installer - 3]({{ site.cdn-url }}/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/6.png)
+![Installer - 3](/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/6.png)
 
 나는 잘 몰라서(…) 그냥 Full Install 을 선택했다.
 
@@ -70,7 +70,7 @@ Next를 누르면 Terms and Conditions 창이 뜬다. Accept All 누르고 넘�
 
 다운로드가 완료 후 Next를 누르면 다음과 같은 화면이 나온다.
 
-![Installer - 4]({{ site.cdn-url }}/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/7-1.png)
+![Installer - 4](/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/7-1.png)
 
 컴퓨터-공유기, TX2-router/switch 상태로 연결되어 있으면 "Device accesses Internet via router/switch" 를 선택하면 된다.
 
@@ -83,7 +83,7 @@ Next를 누르면 Network Interface 선택을 하는 화면이 뜬다.
 
 이후 계속 Next를 넘어가면 Terminal이 자동으로 실행되며 다음과 같은 내용이 표시된다.
 
-![Installer - 5]({{ site.cdn-url }}/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/8.png)
+![Installer - 5](/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/8.png)
 
 화면에 뜬 지시사항을 그대로 따라한 후 Enter를 누르면 자동으로 초기화가 진행된다.
 

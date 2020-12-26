@@ -22,7 +22,7 @@ tags:
 
 iOS 13.4 부터는 아이폰도 정상적으로 이 2개의 채널이 지원될 것으로 보이며 일반적인 재난문자는 이제 더이상 요란하게 울리는 일이 없을 것으로 보입니다.
 
-![iOS 13.4 에서 재난문자 채널이 나뉘어진 모습]({{ site.cdn-url }}/assets/images/2020-03-23-ios-13-4-about-emergency-alert-korea/IMG_0445.jpeg)
+![iOS 13.4 에서 재난문자 채널이 나뉘어진 모습](/assets/images/2020-03-23-ios-13-4-about-emergency-alert-korea/IMG_0445.jpeg)
 
 위의 사진은 영어 설정을 했을 때 보이는 화면입니다. 기존에는 'Emergency Alerts' 만 존재했지만 이제는 'Public Safety Alerts' 역시 존재하는 것을 볼 수 있습니다.
 
