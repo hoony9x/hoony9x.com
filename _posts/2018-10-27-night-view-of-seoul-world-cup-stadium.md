@@ -21,6 +21,6 @@ tags:
 
 그냥 돌아가기에는 뭔가 아쉬웠기 때문에 주변부 야경을 몇 장 찍었는데, 유일하게 잘 나왔다고 생각하는 사진이 바로 이것이다.
 
-![Canon 80D + SIGMA Art 30mm, f/16, 10s, ISO 400](/assets/images/2018-10-27-night-view-of-seoul-world-cup-stadium/Seoul_World_Cup_Stadium_By_Han_KH.jpg)
+![Canon 80D + SIGMA Art 30mm, f/16, 10s, ISO 400]({{ site.cdn-url }}/assets/images/2018-10-27-night-view-of-seoul-world-cup-stadium/Seoul_World_Cup_Stadium_By_Han_KH.jpg)
 
 날씨가 다소 춥긴 했지만 괜찮은 사진을 한 장 건져서 만족했다.

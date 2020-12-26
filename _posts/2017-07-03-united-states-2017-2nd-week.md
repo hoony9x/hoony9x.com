@@ -18,11 +18,11 @@ tags:
 
 현재 내가 있는 기숙사 건물에서 New Port Beach 까지는 차로 20분 정도 걸린다.
 
-![Google Map](/assets/images/2017-07-03-united-states-2017-2nd-week/1-1.png)
+![Google Map]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/1-1.png)
 
 그런데 돈을 좀 아껴볼까 라는 생각이 들었다. 그래서 버스가 있는지 알아봤다.
 
-![Google Map](/assets/images/2017-07-03-united-states-2017-2nd-week/2-1.png)
+![Google Map]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/2-1.png)
 
 처음에 저 그림만 보고 [저 별표 찍힌 곳 근처](https://goo.gl/maps/Qckgqjn9yEQ2)에서 New Port Beach 까지 가는 다른 버스가 있는 줄 알았다. (있는 것 같긴 한데 이날 찾지는 못했다)
 
@@ -30,22 +30,22 @@ tags:
 
 ## Fashion Island 사진들
 
-![Fashion Island - 1](/assets/images/2017-07-03-united-states-2017-2nd-week/4-1-1.jpg)
-![Fashion Island - 2](/assets/images/2017-07-03-united-states-2017-2nd-week/5-1-1.jpg)
-![Fashion Island - 3](/assets/images/2017-07-03-united-states-2017-2nd-week/3-1-1.jpg)
+![Fashion Island - 1]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/4-1-1.jpg)
+![Fashion Island - 2]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/5-1-1.jpg)
+![Fashion Island - 3]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/3-1-1.jpg)
 
 여기에 [Apple Fashion Island](https://goo.gl/maps/2bBT3xkaAS62) (애플스토어의 공식 명칭은 2017년 현재 전부 “Apple” 로 변경되었다) 가 있었다. 앱등이인 내가 지나칠 수는 없기에 들어가봤다.
 
-![Fashion Island Apple Store - 1](/assets/images/2017-07-03-united-states-2017-2nd-week/6-1-1.jpg)
-![Fashion Island Apple Store - 2](/assets/images/2017-07-03-united-states-2017-2nd-week/7-1-1-1.jpg)
+![Fashion Island Apple Store - 1]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/6-1-1.jpg)
+![Fashion Island Apple Store - 2]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/7-1-1-1.jpg)
 
 아래는 사설수리 광고 간판인 듯 하다.
 
-![사설수리 광고](/assets/images/2017-07-03-united-states-2017-2nd-week/8-1-1.jpg)
+![사설수리 광고]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/8-1-1.jpg)
 
 이곳에서도 사설 수리 수요가 꽤 있는 것 같다.
 
-![Fidget Spinner 파는 곳](/assets/images/2017-07-03-united-states-2017-2nd-week/9-2.jpg)
+![Fidget Spinner 파는 곳]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/9-2.jpg)
 
 요즘 꽤 인기가 많아진(맞나?) Fidget Spinner 를 파는 것도 보인다.
 
@@ -53,21 +53,21 @@ tags:
 
 결국 그냥 Uber 불렀다. 가격은 대략 $10 정도로 기억한다.
 
-![Google Map](/assets/images/2017-07-03-united-states-2017-2nd-week/10-2.png)
+![Google Map]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/10-2.png)
 
 그렇게 목적지에 도착하니 시원시원하게 바람이 부는 해변을 볼 수 있었다. 이날 날씨는 다소 흐린 편이었는데 덕분에 덥지는 않아서 좋았다.
 
 ## New Port Beach 사진들
 
-![New Port Beach - 1](/assets/images/2017-07-03-united-states-2017-2nd-week/12-1.jpg)
-![New Port Beach - 2](/assets/images/2017-07-03-united-states-2017-2nd-week/13-1.jpg)
-![New Port Beach - 3](/assets/images/2017-07-03-united-states-2017-2nd-week/14-1.jpg)
-![New Port Beach - 4](/assets/images/2017-07-03-united-states-2017-2nd-week/15-1.jpg)
-![New Port Beach - 5](/assets/images/2017-07-03-united-states-2017-2nd-week/16-1.jpg)
+![New Port Beach - 1]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/12-1.jpg)
+![New Port Beach - 2]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/13-1.jpg)
+![New Port Beach - 3]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/14-1.jpg)
+![New Port Beach - 4]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/15-1.jpg)
+![New Port Beach - 5]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/16-1.jpg)
 
 해변에는 집들도 많이 보이는데 저 집이 숙박용 팬션인지 아니면 진짜 가정집인지는 모르겠다. 어느 쪽이든 값이 꽤나 비쌀 것 같다.
 
-![비행기로 공중에서 광고를?](/assets/images/2017-07-03-united-states-2017-2nd-week/17-1.jpg)
+![비행기로 공중에서 광고를?]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/17-1.jpg)
 
 사진을 찍는 와중에 자꾸 비행기 날아다니는 소리가 나서 뭔가 봤더니 비행기 끝에 광고 현수막을 달고 날아다니며(…) 광고를 하고 있었다. 역시 미국이라 그런지 스케일이 다르다.
 
@@ -75,7 +75,7 @@ tags:
 
 결국 Uber를 다시 타게 되었다. 가격은 $20 정도 나왔던 것으로 기억한다.
 
-![Google Map](/assets/images/2017-07-03-united-states-2017-2nd-week/18.png)
+![Google Map]({{ site.cdn-url }}/assets/images/2017-07-03-united-states-2017-2nd-week/18.png)
 
 ### 이날 느낀점 대략 요약
 

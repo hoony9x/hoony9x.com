@@ -18,60 +18,60 @@ featured: true
 
 <!-- more -->
 
-![구글 방문자 네임태그](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0082.jpg)
+![구글 방문자 네임태그]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0082.jpg)
 
 구글 본사에 근무하고 계신 한국인 개발자님을 통해 구글 견학을 할 수 있었다.
 
 우선은 캠퍼스를 둘러보는 시간을 가졌다. 아래 사진은 [Google Visitor Center Beta](https://goo.gl/maps/eYva4yNqtcF2) 에서 찍었던 사진들이다.
 
-![Google Visitor Center - 1](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0120.jpg)
-![Google Visitor Center - 2](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0121.jpg)
-![Google Visitor Center - 3](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0122.jpg)
-![Google Visitor Center - 4](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0123.jpg)
-![Google Visitor Center - 5](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0124.jpg)
+![Google Visitor Center - 1]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0120.jpg)
+![Google Visitor Center - 2]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0121.jpg)
+![Google Visitor Center - 3]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0122.jpg)
+![Google Visitor Center - 4]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0123.jpg)
+![Google Visitor Center - 5]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0124.jpg)
 
-![업무 공간 모형 - 1](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0131-1.jpg)
-![업무 공간 모형 - 2](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0132-2.jpg)
-![업무 공간 모형 - 3](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0133-2.jpg)
+![업무 공간 모형 - 1]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0131-1.jpg)
+![업무 공간 모형 - 2]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0132-2.jpg)
+![업무 공간 모형 - 3]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0133-2.jpg)
 
-![사내 캠퍼스 자전가](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0137.jpg)
+![사내 캠퍼스 자전가]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0137.jpg)
 
 구글 곳곳에는 이렇게 생긴 자전거가 있는데, 이를 타고 회사 내 캠퍼스의 이곳 저곳을 자유롭게 다닐 수 있는 듯 하다.
 
-![크롬북 전시된 곳](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0142.jpg)
-![예전 구글 회의 장면](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0144-1.jpg)
-![Google 로고 변천사](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0146.jpg)
-![Google 트래픽 변화 시각화](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0151.jpg)
+![크롬북 전시된 곳]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0142.jpg)
+![예전 구글 회의 장면]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0144-1.jpg)
+![Google 로고 변천사]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0146.jpg)
+![Google 트래픽 변화 시각화]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0151.jpg)
 
 그 다음에는 Visitor Center 를 나와서 GooglePlex 로 이동했다.
 
-![사내 캠퍼스 도로 - 1](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0154.jpg)
-![사내 캠퍼스 도로 - 2](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0155.jpg)
-![사내 캠퍼스 도로 - 3](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0156.jpg)
+![사내 캠퍼스 도로 - 1]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0154.jpg)
+![사내 캠퍼스 도로 - 2]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0155.jpg)
+![사내 캠퍼스 도로 - 3]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0156.jpg)
 
-![Google 간판](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0159.jpg)
+![Google 간판]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0159.jpg)
 
-![Google Main Campus - 1](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0160.jpg)
-![Google Main Campus - 2](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0170.jpg)
-![Google Main Campus - 3](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0162.jpg)
-![Google Main Campus - 4](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0161.jpg)
+![Google Main Campus - 1]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0160.jpg)
+![Google Main Campus - 2]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0170.jpg)
+![Google Main Campus - 3]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0162.jpg)
+![Google Main Campus - 4]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0161.jpg)
 
-![Visitor 네임태그 발급 기계](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0180.jpg)
-![사내 카페](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0181.jpg)
+![Visitor 네임태그 발급 기계]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0180.jpg)
+![사내 카페]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0181.jpg)
 
-![내부 공간 - 1](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0182.jpg)
-![내부 공간 - 2](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0183.jpg)
+![내부 공간 - 1]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0182.jpg)
+![내부 공간 - 2]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0183.jpg)
 
 방문자는 들어갈 수 없는 공간도 있다.
 
-![Android Device Test Room?](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0184.jpg)
+![Android Device Test Room?]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0184.jpg)
 
 위 사진에 보이는 방은 안드로이드의 각종 디바이스를 테스트하는 곳이라고 한다.
 
 그 다음에는 어느 회의실로 이동하여 이날 Google 견학을 호스팅해주신 한국인 개발자분들 2명과의 이야기를 갖는 시간이 있었다.
 
-![Post Thumbnail](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0188-1.jpg)
-![이야기 시간 - 1](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0190.jpg)
+![Post Thumbnail]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0188-1.jpg)
+![이야기 시간 - 1]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0190.jpg)
 
 여기서 나왔던 이야기들을 정리하면 다음과 같다. (메모한 글을 바탕으로 작성하기 때문에 정확하지 않을 수 있다.)
 
@@ -97,7 +97,7 @@ featured: true
 
 > 일반적으로 L1 비자를 통한 취업 또는 HB1 비자를 통한 취업을 생각할 수 있습니다.
 
-![구글 입사 경우의 수 이야기 장면](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/------.jpeg)
+![구글 입사 경우의 수 이야기 장면]({{ site.cdn-url }}/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/------.jpeg)
 
 > HB1 비자의 경우 1년에 발급되는 수량에 제한이 있습니다.
 > 따라서 추첨을 통해 발급이 되는데요, 이 비자 발급 신청에서 떨어지게 되면 미국 외의 지사에서 일정 기간 근무 후에 L1 비자를 받아서 올 수도 있습니다.

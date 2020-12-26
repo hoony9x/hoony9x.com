@@ -18,7 +18,7 @@ I-SURF 2017 참가자로 UC Irvine 에 왔고 벌써 1주일이 흘렀다. 앞�
 
 ## 6월 26일
 
-![I-SURF 2017 nametag](/assets/images/2017-07-03-uci-i-surf-2017-1st-week/1.jpg)
+![I-SURF 2017 nametag]({{ site.cdn-url }}/assets/images/2017-07-03-uci-i-surf-2017-1st-week/1.jpg)
 
 (이 명찰은 받은 첫 날을 제외하고 사용한 적이 없다)
 
@@ -28,11 +28,11 @@ I-SURF 2017 참가자로 UC Irvine 에 왔고 벌써 1주일이 흘렀다. 앞�
 
 체크인 절차 후 Meal Card와 셔틀 버스 이용 스티커를 수령했다.
 
-![UCI Meal Card](/assets/images/2017-07-03-uci-i-surf-2017-1st-week/2-2.jpg)
+![UCI Meal Card]({{ site.cdn-url }}/assets/images/2017-07-03-uci-i-surf-2017-1st-week/2-2.jpg)
 
 - Meal Card: UCI 내 캠퍼스에 있는 카페나 음식점, Book Store 등에서 이용할 수 있는 카드이다. 이번에 지급된 카드에는 USD 300 이 충전되어 있었다.
 
-![UCI Shuttle Bus Sticker](/assets/images/2017-07-03-uci-i-surf-2017-1st-week/3-2.jpg)
+![UCI Shuttle Bus Sticker]({{ site.cdn-url }}/assets/images/2017-07-03-uci-i-surf-2017-1st-week/3-2.jpg)
 
 - 셔틀 버스 이용 스티거: 저기에 SS1 2017 SS2 2017 이라고 적혀 있는 것이 셔틀버스 이용 티켓이다. 셔틀버스 탑승 시 이 스티커 부분을 보여주고 탑승을 하면 된다.
 
@@ -47,7 +47,7 @@ I-SURF 2017 참가자로 UC Irvine 에 왔고 벌써 1주일이 흘렀다. 앞�
 
 프로젝트에서 내가 사용할 보드는 NVIDIA Jetson TX2 (Developer Kit)이다. 밑의 사진과 같이 생겼다.
 
-![NVIDIA Jetson TX2 Dev Board](/assets/images/2017-07-03-uci-i-surf-2017-1st-week/4-2.jpg)
+![NVIDIA Jetson TX2 Dev Board]({{ site.cdn-url }}/assets/images/2017-07-03-uci-i-surf-2017-1st-week/4-2.jpg)
 
 근데 이 보드가 이날 아침까지는 없어서 (Donny가 자기 보드가 아니라 다른사람한테 빌려와야 한다고 했었다) 점심 먹을때까지 멍때리고 있었다.
 
@@ -91,10 +91,10 @@ I-SURF 2017 참가자로 UC Irvine 에 왔고 벌써 1주일이 흘렀다. 앞�
 
 점심 시간에는 잠시 캠퍼스 중앙에 있는 공원 산책을 했다.
 
-![UCI Aldrich Park - 1](/assets/images/2017-07-03-uci-i-surf-2017-1st-week/6-2.jpg)
-![UCI Aldrich Park - 2](/assets/images/2017-07-03-uci-i-surf-2017-1st-week/7-1-1.jpg)
-![UCI Aldrich Park - 3](/assets/images/2017-07-03-uci-i-surf-2017-1st-week/8-2.jpg)
-![UCI Aldrich Park - 4](/assets/images/2017-07-03-uci-i-surf-2017-1st-week/5-2.jpg)
+![UCI Aldrich Park - 1]({{ site.cdn-url }}/assets/images/2017-07-03-uci-i-surf-2017-1st-week/6-2.jpg)
+![UCI Aldrich Park - 2]({{ site.cdn-url }}/assets/images/2017-07-03-uci-i-surf-2017-1st-week/7-1-1.jpg)
+![UCI Aldrich Park - 3]({{ site.cdn-url }}/assets/images/2017-07-03-uci-i-surf-2017-1st-week/8-2.jpg)
+![UCI Aldrich Park - 4]({{ site.cdn-url }}/assets/images/2017-07-03-uci-i-surf-2017-1st-week/5-2.jpg)
 
 여기는 매일매일 해가 쨍쨍해서 이런 곳에서 산책하기 매우 좋다.
 

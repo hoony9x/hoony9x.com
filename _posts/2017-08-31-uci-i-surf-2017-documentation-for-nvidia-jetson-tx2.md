@@ -29,16 +29,16 @@ $ ./JetPack-L4T-3.0-linux-x64.run
 
 After that, you can see below GUI window.
 
-![Installer - 1](/assets/images/2017-08-31-uci-i-surf-2017-documentation-for-nvidia-jetson-tx2/4-1.png)
+![Installer - 1]({{ site.cdn-url }}/assets/images/2017-08-31-uci-i-surf-2017-documentation-for-nvidia-jetson-tx2/4-1.png)
 
 Press next, and select NVIDIA Jetson TX2 and press next again.  
 Then, you can see the list of available software.
 
-![Installer - 2](/assets/images/2017-08-31-uci-i-surf-2017-documentation-for-nvidia-jetson-tx2/6-1.png)
+![Installer - 2]({{ site.cdn-url }}/assets/images/2017-08-31-uci-i-surf-2017-documentation-for-nvidia-jetson-tx2/6-1.png)
 
 Select what you want to install, and press next. Please note that your computer and NVIDIA Jetson TX2 must be connected to the internet to the same router.
 
-![Installer - 3](/assets/images/2017-08-31-uci-i-surf-2017-documentation-for-nvidia-jetson-tx2/8-1.png)
+![Installer - 3]({{ site.cdn-url }}/assets/images/2017-08-31-uci-i-surf-2017-documentation-for-nvidia-jetson-tx2/8-1.png)
 
 Prepare your device to recovery mode and just wait. SDK will automatically setup your device.
 

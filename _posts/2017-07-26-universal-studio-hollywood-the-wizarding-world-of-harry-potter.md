@@ -20,47 +20,47 @@ tags:
 
 이 테마 구역에 들어서게 되면 해리포터 시리즈에 나오는 마을인 호그스미드처럼 꾸며놓은 것을 볼 수 있다.
 
-![Town 1](/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0719.jpg)
+![Town 1]({{ site.cdn-url }}/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0719.jpg)
 
-![Town 2](/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0720.jpg)
+![Town 2]({{ site.cdn-url }}/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0720.jpg)
 
 저 멀리 호그와트(?) 성이 보이는데 저 성 안에 Attraction이 있다.
 
-![Castle 1](/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0721.jpg)
+![Castle 1]({{ site.cdn-url }}/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0721.jpg)
 
-![Castle 2](/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0722.jpg)
+![Castle 2]({{ site.cdn-url }}/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0722.jpg)
 
 이 Attraction은 인기가 제일 많다. 그래서 대기시간 역시 꽤 긴 편이다.
 
-![Water Fan](/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0724.jpg)
+![Water Fan]({{ site.cdn-url }}/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0724.jpg)
 
 줄서는 곳 여기저기에 시원해지라고 이렇게 물을 뿌려주는 선풍기가 많이 있었다.
 
-![Flying Car](/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0723.jpg)
+![Flying Car]({{ site.cdn-url }}/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0723.jpg)
 
 깨알 날아다니는 자동차.
 
-![Waiting Line](/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0730.jpg)
+![Waiting Line]({{ site.cdn-url }}/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0730.jpg)
 
 줄서는곳도 꽤 잘 꾸며놓은 편이다.
 
-![Entrance](/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0734.jpg)
+![Entrance]({{ site.cdn-url }}/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0734.jpg)
 
 대략 1시간 정도 기다려서 드디어 입구에 도달해서 와 이제 타는구나 이러고 있었는데...
 
-![Locker](/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_3040.jpg)
+![Locker]({{ site.cdn-url }}/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_3040.jpg)
 
 카메라나 가방 등을 모두 보관함에 넣고 들어가라고 하더라. 그래도 공짜라 다행이었다.
 
-![Inside 1](/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_3051.jpg)
+![Inside 1]({{ site.cdn-url }}/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_3051.jpg)
 
-![Inside 2](/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_3052.jpg)
+![Inside 2]({{ site.cdn-url }}/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_3052.jpg)
 
-![Inside 3](/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_3069.jpg)
+![Inside 3]({{ site.cdn-url }}/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_3069.jpg)
 
 건물 내부에서 기다리는 공간 내에도 여러 가지로 잘 꾸며져 있었다.
 
-![Riding Section](/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/QEWTPDUM4JG7ZLENWG3ZX5KR7A.jpg)
+![Riding Section]({{ site.cdn-url }}/assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/QEWTPDUM4JG7ZLENWG3ZX5KR7A.jpg)
 
 > 이미지 출처: http://www.latimes.com/business/la-fi-harry-potter-4k-20170323-story.html
 
