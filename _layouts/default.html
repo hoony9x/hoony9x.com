@@ -29,7 +29,18 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', '{{site.google_analytics}}');
+    gtag('config', '{{ site.google_analytics }}');
+</script>
+
+<!-- change your NA id in _config.yml -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/javascript" src="https://wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+    if(!wcs_add) var wcs_add = {};
+    wcs_add["wa"] = "{{ site.naver_analytics }}";
+    if(window.wcs) {
+        wcs_do();
+    }
 </script>
 {% endif %}
 
