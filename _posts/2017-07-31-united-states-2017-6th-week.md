@@ -17,8 +17,6 @@ I-SURF 2017 프로그램상 일정으로 목요일부터 일요일까지 San Fra
 Google과 Facebook 본사의 견학 및 컨퍼런스 참석 일정이 있어서 별도로 개인적으로 관광을 할 수 있는 시간은 많이 가지지 못했다.  
 [금문교(Golden Gate Bridge)](https://goo.gl/maps/mQWfyNqMbJA2)를 보지 못한 것이 아쉽다.
 
-<!-- more -->
-
 ## 7월 27일
 
 오전에 UC Irvine에서 영어 수업이 끝난 후 버스(!)를 타고 San Francisco 까지 이동했다.

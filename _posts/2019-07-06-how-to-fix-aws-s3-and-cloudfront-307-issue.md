@@ -16,8 +16,6 @@ tags:
 
 여기 에 있는 과정을 마친 후에 웹 브라우저로 열어보았으나...
 
-<!-- more -->
-
 ![?!?!](/assets/images/2019-07-06-how-to-fix-aws-s3-and-cloudfront-307-issue/web-browser.png)
 
 정상적이라면 https://hyu-oms.com 으로 떠야 할 도메인이... 

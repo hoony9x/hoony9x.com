@@ -14,8 +14,6 @@ tags:
 
 주말에 딱히 뭔가 많이 돌아다닌 것은 아니고 혼자서 New Port Beach 를 갔다.
 
-<!-- more -->
-
 현재 내가 있는 기숙사 건물에서 New Port Beach 까지는 차로 20분 정도 걸린다.
 
 ![Google Map](/assets/images/2017-07-03-united-states-2017-2nd-week/1-1.png)

@@ -14,8 +14,6 @@ tags:
 
 그리고 시간이 흘러서 카카오뱅크에서 새로운 디자인의 카드를 “한정판”으로 출시한다는 것이었다.
 
-<!-- more -->
-
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fkakaobank.official%2Fposts%2F2112709642344774&width=500" width="500" height="536" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 하지만 계좌 개설 후 체크카드 신규 신청 시에만 한정판을 선택 가능하고 기존에 체크카드를 보유하고 있을 경우에는 재발급 시 한정판 디자인을 고를 수 없다는 것이었다.

@@ -14,8 +14,6 @@ tags:
 This post is the result of my 2-month project with NVIDIA Jetson TX2.  
 It contains how to do the initial setup, what is DVFS, about NVPModel, how to measure power performance, and how to use custom benchmark code.
 
-<!-- more -->
-
 ## Initial Setup (Click [here](/nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/) to view related post)
 
 We can download SDK(JetPack) from [this site](https://developer.nvidia.com/embedded/jetpack).  

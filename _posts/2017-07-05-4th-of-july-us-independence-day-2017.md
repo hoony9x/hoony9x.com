@@ -13,8 +13,6 @@ tags:
 
 이날은 4th of July (미국 독립기념일) 이었다.
 
-<!-- more -->
-
 이날은 미국 여기저기서 불꽃놀이를 많이 하는데 Orange County 쪽에서도 여러 곳에서 불꽃놀이 행사가 예정되어 있었다.
 
 ![Public Fireworks Displays](/assets/images/2017-07-05-4th-of-july-us-independence-day-2017/IMG_2746.jpg)

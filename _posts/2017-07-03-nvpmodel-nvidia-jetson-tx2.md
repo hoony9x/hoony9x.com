@@ -17,8 +17,6 @@ TX2 보드에는 CPU코어의 on/off 및 frequency 조절, GPU frequency 조절�
 
 이 명령어는 NVPModel 라는 이름으로 존재한다.
 
-<!-- more -->
-
 ![http://www.jetsonhacks.com/2017/03/25/nvpmodel-nvidia-jetson-tx2-development-kit/](/assets/images/2017-07-03-nvpmodel-nvidia-jetson-tx2/Screen-Shot-2018-10-26-at-2.00.11-PM.png)
 
 기본적으로 5가지의 Preset 을 제공하며, 각 mode 마다 위와 같이 성능을 조절할 수 있다.

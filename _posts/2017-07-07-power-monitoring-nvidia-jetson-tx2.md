@@ -15,8 +15,6 @@ tags:
 
 NVIDIA Jetson TX2 보드는 아래의 6가지 component 에 대해서 power monitoring 이 가능하다.
 
-<!-- more -->
-
 (출처: JETSON TX2 OEM PRODUCT | DESIGN GUIDE | 20170501)
 
 - GPU Supply

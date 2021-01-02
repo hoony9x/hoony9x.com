@@ -14,8 +14,6 @@ tags:
 
 이번 주말에는 UCI I-SURF 2017에 참가한 다른 사람들과 같이 Laguna Beach 에 갔다 왔다.
 
-<!-- more -->
-
 지도상의 위치는 다음과 같다.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1702520.9920991978!2d-117.775689!3d33.547236!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dce0c88f5b24c1%3A0xde7b435a879daf6!2z7LqY66as7Y-s64uI7JWEIOufrOq1rOuCmOu5hOy5mA!5e0!3m2!1sko!2sus!4v1583407755527!5m2!1sko!2sus" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>

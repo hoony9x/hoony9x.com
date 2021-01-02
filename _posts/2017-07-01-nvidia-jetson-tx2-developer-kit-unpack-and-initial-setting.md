@@ -15,8 +15,6 @@ tags:
 
 NVIDIA Jetson TX2 Developer Kit 개봉기 및 초기 설정에 관한 글이다.
 
-<!-- more -->
-
 ![http://www.nvidia.com/object/embedded-systems-dev-kits-modules.html](/assets/images/2017-07-01-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/1.png)
 
 Developer Kit 은 Jetson TX2 보드에 여러 가지 입출력 인터페이스가 장착된 보드가 함께 있는 것이다.

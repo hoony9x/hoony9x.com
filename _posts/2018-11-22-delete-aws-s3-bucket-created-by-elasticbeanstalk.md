@@ -17,8 +17,6 @@ tags:
 
 아마 이 bucket 을 지우려고 하면 Access Denied 라고 하면서 안지워질 것이다.
 
-<!-- more -->
-
 ```bash
 $ aws s3 rb s3://elasticbeanstalk-ap-northeast-2-764930618406
 remove_bucket failed: s3://elasticbeanstalk-ap-northeast-2-764930618406 An error occurred (AccessDenied) when calling the DeleteBucket operation: Access Denied

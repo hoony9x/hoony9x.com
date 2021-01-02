@@ -14,8 +14,6 @@ tags:
 
 I-SURF 2017 참가자로 UC Irvine 에 왔고 벌써 1주일이 흘렀다. 앞으로도 1주일마다 정리를 하려고 한다. 프로젝트와 관련된 내용만 적는 것은 아니다.
 
-<!-- more -->
-
 ## 6월 26일
 
 ![I-SURF 2017 nametag](/assets/images/2017-07-03-uci-i-surf-2017-1st-week/1.jpg)

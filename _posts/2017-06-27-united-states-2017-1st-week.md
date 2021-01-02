@@ -14,8 +14,6 @@ tags:
 
 UC Irvine 에 도착하니 대략 6시 정도 되었다. 도착 후 2달 동안 지낼 기숙사로는 Arroyo Vista 로 배정을 받았다.
 
-<!-- more -->
-
 이 건물은 대략 이렇게 생겼다.
 
 ![Arroyo Vista - 1](/assets/images/2017-06-27-united-states-2017-1st-week/1-1.jpg)

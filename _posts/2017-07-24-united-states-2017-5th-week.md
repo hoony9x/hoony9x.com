@@ -16,8 +16,6 @@ tags:
 
 이번 주말에는 I-SURF 2017 프로그램 일정에 포함된 Universal Studio Hollywood 방문이 있었다.
 
-<!-- more -->
-
 ![Universal Studio Hollywood 간판](/assets/images/2017-07-24-united-states-2017-5th-week/IMG_0703.jpg)
 
 차에서 내리니 이런 간판이 보인다.

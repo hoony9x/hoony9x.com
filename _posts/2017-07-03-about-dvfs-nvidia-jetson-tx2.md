@@ -15,8 +15,6 @@ tags:
 
 이번 글은 Dynamic Voltage and Frequency Scaling (DVFS) 에 관하여 다룬다.
 
-<!-- more -->
-
 (본 글은 아래의 문서를 참고하였으며 틀린 부분이 있다면 댓글 부탁드립니다.)
 
 참고한 문서

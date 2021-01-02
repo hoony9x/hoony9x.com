@@ -14,8 +14,6 @@ tags:
 
 [1편 내용](/use-aws-s3-as-image-storage-for-ghost-part-1)에 이어서 계속 진행되는 이야기이다.
 
-<!-- more -->
-
 이 글에서는 다음 내용을 다룬다.
 
 ## 2편 진행 순서

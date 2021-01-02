@@ -16,8 +16,6 @@ tags:
 
 [Universal Studio Hollywood 방문 일정](/united-states-2017-5th-week)에서 4번째로 간 Attraction인 Studio Tour 후기이다.
 
-<!-- more -->
-
 Studio Tour 는 Universal Studio 의 꽃이라고 부를 수 있다고 본다. 왜냐면 다른 지역에 있는 Universal Studio 와는 달리 여기에는 실제로 영화 제작이 이루어지는 스튜디오가 존재하기 때문이다.
 
 여기에서 기차처럼 긴 차량 (서울대공원 등에 있는 코끼리열차를 생각하면 된다) 을 타고 스튜디오를 돌아보게 된다.

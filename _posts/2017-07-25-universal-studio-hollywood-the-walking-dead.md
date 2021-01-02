@@ -16,8 +16,6 @@ tags:
 
 [Universal Studio Hollywood 방문 일정](/united-states-2017-5th-week)에서 두 번째로 탑승한 Attraction인 The Walking Dead 후기이다.
 
-<!-- more -->
-
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d52837.687972680826!2d-118.35809599999999!3d34.137246!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x974f3e45e868a3de!2sThe%20Walking%20Dead%20Attraction%20at%20Universal%20Studios%20Hollywood!5e0!3m2!1sko!2sus!4v1583469756744!5m2!1sko!2sus" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 이 Attraction은 놀이기구에 탑승하는 형태가 아니라 체험형이다. (귀신의집 같은것이라고 보면 된다). 나는 이 영화를 보지 않아서 어떤 스토리인지는 잘 모르겠지만, 좀비물이라는 것은 알고 있다.

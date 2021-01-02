@@ -13,8 +13,6 @@ tags:
 
 [서울월드컵경기장](http://www.sisul.or.kr/open_content/worldcup/)의 야경을 찍어봤다.
 
-<!-- more -->
-
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12649.759409554916!2d126.89727700000002!3d37.568259!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x680de03f7adc4155!2z7ISc7Jq47JuU65Oc7Lu16rK96riw7J6l!5e0!3m2!1sko!2skr!4v1563376794622!5m2!1sko!2skr" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 이날은 어째 미세먼지가 없어서 하늘이 맑았다. 그래서 원래는 하늘공원에 가서 갈대 사진을 찍으려고 했는데 도착했을 시점에 이미 햇빛이 많이 사라져 있어서 포기했다.

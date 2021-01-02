@@ -16,8 +16,6 @@ tags:
 
 [Universal Studio Hollywood 방문 일정](/united-states-2017-5th-week)에서 해리포터 구역에서 먹은 버터맥주(Butterbeer) 에 대한 짧은 후기이다.
 
-<!-- more -->
-
 해리포터 구역은 시리즈에 등장하는 마을인 호그스미드처럼 꾸며져 있다. 그리고 이 구역 안에는 버터맥주(Butterbeer)를 이곳 저곳에서 파는 것을 볼 수 있다.
 
 버터맥주(Butterbeer)는 해리 포터 시리즈를 접한 사람이라면 꽤나 익숙한 단어다. [구글에 이것에 관해 검색](https://www.google.com/search?q=butterbeer&spell=1&sa=X&ved=0ahUKEwjb8sCn9-TVAhXrgFQKHZ5sC5MQvwUIJCgA&biw=1280&bih=726)하면 제조법 등 여러 자료가 나온다.

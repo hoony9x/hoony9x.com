@@ -16,8 +16,6 @@ featured: true
 
 그런데 보통 2-Day 배송까지는 무료고 1-Day 배송은 추가요금이 나가는데 이 제품은 1-Day 배송도 무료였다. 당연히 1-Day 배송 냅다 눌렀다.
 
-<!-- more -->
-
 그리고 아침에 일어나서 조금 멍때리고 있는데 벌써 배송이 다 되어서 Amazon Locker에 보관되어 있다는 알림이 왔다.
 
 ![Amazon Locker](/assets/images/2017-08-21-jbl-flip-4-package-box-unpack/IMG_0627.jpg)

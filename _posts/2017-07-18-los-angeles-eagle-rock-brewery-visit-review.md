@@ -14,8 +14,6 @@ tags:
 
 저번 주말(7/15 ~ 7/16)에 Los Angeles에 다녀오면서 중간에 Eagle Rock Brewery 를 갔다왔다. 이곳은 수제 맥주를 파는 양조장이다.
 
-<!-- more -->
-
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d52851.640064041116!2d-118.24334299999998!3d34.114925!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6e69b71ecb66f8c7!2sEagle%20Rock%20Brewery!5e0!3m2!1sko!2sus!4v1583419600812!5m2!1sko!2sus" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 구글 검색에서 Los Angeles 에서 가봐야 할 곳 중 하나로 적혀 있어서 구글 지도에서 찾아서 찾아가봤다. 다만 지도에서 검색을 할 때는 몰랐었는데 꽤나 외진 곳에 있었다.

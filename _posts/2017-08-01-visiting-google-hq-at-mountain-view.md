@@ -16,8 +16,6 @@ featured: true
 [San Francisco 방문 일정](/united-states-2017-6th-week) 중에 7월 28일에는 Google 견학 일정과 Facebook HQ 견학 일정이 있었다.
 이번 글은 Google 본사 방문 후기이다.
 
-<!-- more -->
-
 ![구글 방문자 네임태그](/assets/images/2017-08-01-visiting-google-hq-at-mountain-view/IMG_0082.jpg)
 
 구글 본사에 근무하고 계신 한국인 개발자님을 통해 구글 견학을 할 수 있었다.
