@@ -4,13 +4,23 @@ title: "hoony9x"
 description: "SW Engineer in NAVER Corp, Republic of Korea."
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/favicon-96x96.png'
-baseurl: /
+baseurl: ''
+url: 'https://hoony9x.com'
+locale: 'ko_KR'
 google_analytics: 'G-21QSFHQ1SZ'
 naver_analytics: '956e9c8bc310d0'
 disqus: 'blog-khhan1993-com'
 mailchimp-list:
+timezone: 'Asia/Seoul'
 include: ["_pages"]
 permalink: /:title/
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      image: 'assets/images/logo.svg'
+      layout: 'post'
 
 # Authors
 authors:
