@@ -19,7 +19,7 @@ defaults:
   - scope:
       path: ''
     values:
-      image: 'assets/images/logo.svg'
+      image: 'assets/images/og_image.png'
       layout: 'post'
 
 # Authors
