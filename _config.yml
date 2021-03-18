@@ -41,6 +41,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-minifier
+  - jekyll-compress-images
     
 # Archives
 jekyll-archives:
