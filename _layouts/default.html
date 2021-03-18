@@ -18,22 +18,20 @@
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
-</head>
-
 {% if jekyll.environment == 'production' %}
 <!-- change your GA id in _config.yml -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    gtag('config', '{{ site.google_analytics }}');
+  gtag('config', '{{ site.google_analytics }}');
 </script>
 
 <!-- change your NA id in _config.yml -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - NAVER Analytics -->
 <script type="text/javascript" src="https://wcs.naver.net/wcslog.js"></script>
 <script type="text/javascript">
     if(!wcs_add) var wcs_add = {};
@@ -43,6 +41,8 @@
     }
 </script>
 {% endif %}
+
+</head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">
